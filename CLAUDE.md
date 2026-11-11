@@ -36,7 +36,7 @@ Run everything from the repo root with `python3 -m nfl_agent <command>` (stdlib 
 | `weather --week W` | Kickoff forecast for outdoor games | 0 |
 | `monitor --week W [--no-lines] --label X` | Snapshot + diff vs last snapshot: line moves, Kalshi swings, injury changes, weather flags | 3 (0 with --no-lines) |
 | `add-picks file.json` / `grade --season Y --week W` / `scorecard` | The picks ledger in `memory/picks.csv` | 0 |
-| `text "message" [--urgent]` | Text the user (Twilio). Falls back to `data/outbox.jsonl` if SMS isn't configured | 0 |
+| `text "message" [--urgent]` | Text the user via email-to-text (Brevo -> MetroPCS gateway, plain text, max ~450 chars). Falls back to `data/outbox.jsonl` if not configured | 0 |
 
 **Connectors (use when available):**
 - **Billy Bets** (`mcp__Billy_Bets__slate`, `mcp__Billy_Bets__game`): prediction-market signals, the "Alpha"

@@ -1,23 +1,29 @@
-"""Text alerts via Twilio, with a safe fallback.
+"""Text alerts.
+
+Primary channel: email-to-text through the carrier gateway (e.g. <number>@mymetropcs.com),
+sent as PLAIN TEXT through Brevo's HTTPS email API (free tier, 300 emails/day).
+Optional channel: Twilio SMS.
 
 Configuration lives in the cloud environment, never in the repo:
-  TWILIO_ACCOUNT_SID   (environment variable)
-  TWILIO_FROM          (environment variable, your Twilio number, e.g. +14045551234)
-  ALERT_TO             (environment variable, your cell, e.g. +14045559876)
-  Auth token           (network secret on api.twilio.com, Basic auth; injected by the proxy)
+  ALERT_SMS_EMAIL      env var: the phone's gateway address, e.g. 4045551234@mymetropcs.com
+  ALERT_FROM_EMAIL     env var: the Brevo-verified sender address
+  Brevo API key        network secret on api.brevo.com (header api-key), injected by the proxy
+  -- or Twilio --
+  TWILIO_ACCOUNT_SID, TWILIO_FROM, ALERT_TO env vars + Basic-auth secret on api.twilio.com
 
-If anything is missing, the alert is written to data/outbox.jsonl and the
-scheduled task's push notification carries it instead.
+If nothing is configured, the alert is written to data/outbox.jsonl and shown in the session.
 """
 from __future__ import annotations
 
 import base64
 import json
 import os
+import urllib.error
+import urllib.request
 
-from .common import DATA, HttpError, now_et, post_form, profile, utcnow_iso
+from .common import DATA, HttpError, UA, now_et, post_form, profile, utcnow_iso
 
-MAX_LEN = 600  # ~4 SMS segments
+MAX_LEN = 450  # gateway texts get split/truncated past a few segments
 
 
 def _quiet_now() -> bool:
@@ -26,26 +32,47 @@ def _quiet_now() -> bool:
     return t >= start or t < end
 
 
+def _send_brevo(to_addr: str, from_addr: str, body: str) -> dict:
+    payload = {
+        "sender": {"email": from_addr, "name": "NFL Picks"},
+        "to": [{"email": to_addr}],
+        "subject": "NFL",
+        "textContent": body,  # plain text only: HTML shows up as raw tags on the phone
+    }
+    req = urllib.request.Request(
+        "https://api.brevo.com/v3/smtp/email", data=json.dumps(payload).encode(), method="POST",
+        headers={"User-Agent": UA, "Content-Type": "application/json", "Accept": "application/json",
+                 "api-key": "proxy-injected"})  # the proxy replaces this with the real key
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode() or "{}")
+    except urllib.error.HTTPError as e:
+        raise HttpError(e.code, e.read().decode(errors="replace"), req.full_url)
+
+
 def send(body: str, urgent: bool = False) -> dict:
-    body = body.strip()
+    body = " ".join(body.split())  # one plain line; no HTML, no stray newlines
     if len(body) > MAX_LEN:
         body = body[: MAX_LEN - 3] + "..."
     record = {"at": utcnow_iso(), "body": body, "urgent": urgent}
-    sid, frm, to = os.getenv("TWILIO_ACCOUNT_SID"), os.getenv("TWILIO_FROM"), os.getenv("ALERT_TO")
-    if _quiet_now() and not urgent:
-        record["status"] = "held_quiet_hours"
-    elif sid and frm and to:
-        # Placeholder Basic credentials; the proxy replaces the Authorization header.
-        dummy = base64.b64encode(b"proxy:injected").decode()
-        try:
+    gw, frm = os.getenv("ALERT_SMS_EMAIL"), os.getenv("ALERT_FROM_EMAIL")
+    sid, tw_from, tw_to = os.getenv("TWILIO_ACCOUNT_SID"), os.getenv("TWILIO_FROM"), os.getenv("ALERT_TO")
+    try:
+        if _quiet_now() and not urgent:
+            record["status"] = "held_quiet_hours"
+        elif gw and frm:
+            r = _send_brevo(gw, frm, body)
+            record.update(status="sent", channel="email-to-text", id=r.get("messageId"))
+        elif sid and tw_from and tw_to:
+            dummy = base64.b64encode(b"proxy:injected").decode()
             r = post_form(f"https://api.twilio.com/2010-04-01/Accounts/{sid}/Messages.json",
-                          {"To": to, "From": frm, "Body": body},
+                          {"To": tw_to, "From": tw_from, "Body": body},
                           headers={"Authorization": f"Basic {dummy}"})
-            record.update(status="sent", sid=r.get("sid"))
-        except HttpError as e:
-            record.update(status="error", error=str(e)[:300])
-    else:
-        record["status"] = "no_sms_config"
+            record.update(status="sent", channel="twilio", id=r.get("sid"))
+        else:
+            record["status"] = "no_sms_config"
+    except HttpError as e:
+        record.update(status="error", error=str(e)[:300])
     DATA.mkdir(exist_ok=True)
     with (DATA / "outbox.jsonl").open("a") as f:
         f.write(json.dumps(record) + "\n")
