@@ -1,5 +1,5 @@
 {
- "at": "2026-11-11T04:06:31Z",
+ "at": "2026-11-11T04:12:12Z",
  "week": 10,
  "games": [
   {
@@ -1887,6 +1887,561 @@
    "date": "2026-11-04T16:10Z"
   }
  ],
+ "kalshi": [
+  {
+   "event": "KXNFLGAME-26NOV12WASNYG",
+   "title": "Washington vs New York G",
+   "team": "New York G",
+   "prob": 0.565,
+   "prev": 0.55,
+   "volume": 650004.48,
+   "volume_24h": 343499.98,
+   "open_interest": 383918.03
+  },
+  {
+   "event": "KXNFLGAME-26NOV12WASNYG",
+   "title": "Washington vs New York G",
+   "team": "Washington",
+   "prob": 0.435,
+   "prev": 0.46,
+   "volume": 203489.84,
+   "volume_24h": 135206.24,
+   "open_interest": 170457.42
+  },
+  {
+   "event": "KXNFLGAME-26NOV15NEDET",
+   "title": "New England vs Detroit",
+   "team": "Detroit",
+   "prob": 0.575,
+   "prev": 0.58,
+   "volume": 153273.77,
+   "volume_24h": 44753.04,
+   "open_interest": 120693.2
+  },
+  {
+   "event": "KXNFLGAME-26NOV15NEDET",
+   "title": "New England vs Detroit",
+   "team": "New England",
+   "prob": 0.42,
+   "prev": 0.43,
+   "volume": 113862.74,
+   "volume_24h": 14824.98,
+   "open_interest": 103727.5
+  },
+  {
+   "event": "KXNFLGAME-26NOV15BUFNYJ",
+   "title": "Buffalo vs New York J",
+   "team": "New York J",
+   "prob": 0.195,
+   "prev": 0.2,
+   "volume": 27601.75,
+   "volume_24h": 6875.66,
+   "open_interest": 21178.42
+  },
+  {
+   "event": "KXNFLGAME-26NOV15BUFNYJ",
+   "title": "Buffalo vs New York J",
+   "team": "Buffalo",
+   "prob": 0.805,
+   "prev": 0.81,
+   "volume": 135538.2,
+   "volume_24h": 87696.43,
+   "open_interest": 114676.77
+  },
+  {
+   "event": "KXNFLGAME-26NOV15CARNO",
+   "title": "Carolina vs New Orleans",
+   "team": "New Orleans",
+   "prob": 0.555,
+   "prev": 0.53,
+   "volume": 40597.86,
+   "volume_24h": 19731.22,
+   "open_interest": 27487.69
+  },
+  {
+   "event": "KXNFLGAME-26NOV15CARNO",
+   "title": "Carolina vs New Orleans",
+   "team": "Carolina",
+   "prob": 0.445,
+   "prev": 0.49,
+   "volume": 98196.07,
+   "volume_24h": 66329.76,
+   "open_interest": 96309.21
+  },
+  {
+   "event": "KXNFLGAME-26NOV15HOUCLE",
+   "title": "Houston vs Cleveland",
+   "team": "Cleveland",
+   "prob": 0.335,
+   "prev": 0.34,
+   "volume": 37578.6,
+   "volume_24h": 14840.91,
+   "open_interest": 29181.89
+  },
+  {
+   "event": "KXNFLGAME-26NOV15HOUCLE",
+   "title": "Houston vs Cleveland",
+   "team": "Houston",
+   "prob": 0.675,
+   "prev": 0.67,
+   "volume": 23693.88,
+   "volume_24h": 10063.62,
+   "open_interest": 16552.45
+  },
+  {
+   "event": "KXNFLGAME-26NOV15JACTEN",
+   "title": "Jacksonville vs Tennessee",
+   "team": "Tennessee",
+   "prob": 0.165,
+   "prev": 0.17,
+   "volume": 44746.01,
+   "volume_24h": 12283.11,
+   "open_interest": 37927.48
+  },
+  {
+   "event": "KXNFLGAME-26NOV15JACTEN",
+   "title": "Jacksonville vs Tennessee",
+   "team": "Jacksonville",
+   "prob": 0.835,
+   "prev": 0.83,
+   "volume": 168167.77,
+   "volume_24h": 57239.18,
+   "open_interest": 152166.98
+  },
+  {
+   "event": "KXNFLGAME-26NOV15KCATL",
+   "title": "Kansas City vs Atlanta",
+   "team": "Atlanta",
+   "prob": 0.365,
+   "prev": 0.37,
+   "volume": 21197.54,
+   "volume_24h": 6009.72,
+   "open_interest": 13059.68
+  },
+  {
+   "event": "KXNFLGAME-26NOV15KCATL",
+   "title": "Kansas City vs Atlanta",
+   "team": "Kansas City",
+   "prob": 0.635,
+   "prev": 0.63,
+   "volume": 102608.91,
+   "volume_24h": 35954.08,
+   "open_interest": 75227.51
+  },
+  {
+   "event": "KXNFLGAME-26NOV15MIAIND",
+   "title": "Miami vs Indianapolis",
+   "team": "Indianapolis",
+   "prob": 0.645,
+   "prev": 0.57,
+   "volume": 430704.23,
+   "volume_24h": 424995.86,
+   "open_interest": 426314.42
+  },
+  {
+   "event": "KXNFLGAME-26NOV15MIAIND",
+   "title": "Miami vs Indianapolis",
+   "team": "Miami",
+   "prob": 0.355,
+   "prev": 0.44,
+   "volume": 54424.22,
+   "volume_24h": 48081.19,
+   "open_interest": 47991.49
+  },
+  {
+   "event": "KXNFLGAME-26NOV15MINGB",
+   "title": "Minnesota vs Green Bay",
+   "team": "Green Bay",
+   "prob": 0.615,
+   "prev": 0.64,
+   "volume": 490225.57,
+   "volume_24h": 453152.28,
+   "open_interest": 447235.59
+  },
+  {
+   "event": "KXNFLGAME-26NOV15MINGB",
+   "title": "Minnesota vs Green Bay",
+   "team": "Minnesota",
+   "prob": 0.385,
+   "prev": 0.37,
+   "volume": 299747.87,
+   "volume_24h": 268797.76,
+   "open_interest": 268655.93
+  },
+  {
+   "event": "KXNFLGAME-26NOV15LARARI",
+   "title": "Los Angeles R vs Arizona",
+   "team": "Arizona",
+   "prob": 0.215,
+   "prev": 0.22,
+   "volume": 35979.06,
+   "volume_24h": 16551.78,
+   "open_interest": 21766.22
+  },
+  {
+   "event": "KXNFLGAME-26NOV15LARARI",
+   "title": "Los Angeles R vs Arizona",
+   "team": "Los Angeles R",
+   "prob": 0.795,
+   "prev": 0.8,
+   "volume": 61982.17,
+   "volume_24h": 40771.76,
+   "open_interest": 56852.85
+  },
+  {
+   "event": "KXNFLGAME-26NOV15SEALV",
+   "title": "Seattle vs Las Vegas",
+   "team": "Las Vegas",
+   "prob": 0.275,
+   "prev": 0.38,
+   "volume": 211055.22,
+   "volume_24h": 47917.55,
+   "open_interest": 78607.55
+  },
+  {
+   "event": "KXNFLGAME-26NOV15SEALV",
+   "title": "Seattle vs Las Vegas",
+   "team": "Seattle",
+   "prob": 0.735,
+   "prev": 0.63,
+   "volume": 490340.56,
+   "volume_24h": 397136.12,
+   "open_interest": 472272.72
+  },
+  {
+   "event": "KXNFLGAME-26NOV15SFDAL",
+   "title": "San Francisco vs Dallas",
+   "team": "Dallas",
+   "prob": 0.335,
+   "prev": 0.33,
+   "volume": 83773.06,
+   "volume_24h": 50258.2,
+   "open_interest": 74883.26
+  },
+  {
+   "event": "KXNFLGAME-26NOV15SFDAL",
+   "title": "San Francisco vs Dallas",
+   "team": "San Francisco",
+   "prob": 0.665,
+   "prev": 0.68,
+   "volume": 270842.21,
+   "volume_24h": 171282.54,
+   "open_interest": 208321.45
+  },
+  {
+   "event": "KXNFLGAME-26NOV15PITCIN",
+   "title": "Pittsburgh vs Cincinnati",
+   "team": "Cincinnati",
+   "prob": 0.635,
+   "prev": 0.65,
+   "volume": 70975.15,
+   "volume_24h": 43700.9,
+   "open_interest": 66393.09
+  },
+  {
+   "event": "KXNFLGAME-26NOV15PITCIN",
+   "title": "Pittsburgh vs Cincinnati",
+   "team": "Pittsburgh",
+   "prob": 0.365,
+   "prev": 0.36,
+   "volume": 110855.09,
+   "volume_24h": 45505.21,
+   "open_interest": 98485.17
+  },
+  {
+   "event": "KXNFLGAME-26NOV16LACBAL",
+   "title": "Los Angeles C vs Baltimore",
+   "team": "Baltimore",
+   "prob": 0.675,
+   "prev": 0.69,
+   "volume": 40310.03,
+   "volume_24h": 6837.38,
+   "open_interest": 25264.81
+  },
+  {
+   "event": "KXNFLGAME-26NOV16LACBAL",
+   "title": "Los Angeles C vs Baltimore",
+   "team": "Los Angeles C",
+   "prob": 0.325,
+   "prev": 0.33,
+   "volume": 47575.17,
+   "volume_24h": 16807.49,
+   "open_interest": 33299.62
+  },
+  {
+   "event": "KXNFLGAME-26NOV19INDHOU",
+   "title": "Indianapolis vs Houston",
+   "team": "Houston",
+   "prob": 0.825,
+   "prev": 0.0,
+   "volume": 741.49,
+   "volume_24h": 741.49,
+   "open_interest": 700.49
+  },
+  {
+   "event": "KXNFLGAME-26NOV19INDHOU",
+   "title": "Indianapolis vs Houston",
+   "team": "Indianapolis",
+   "prob": 0.185,
+   "prev": 0.0,
+   "volume": 953.47,
+   "volume_24h": 948.49,
+   "open_interest": 929.4
+  },
+  {
+   "event": "KXNFLGAME-26NOV22ARIKC",
+   "title": "Arizona vs Kansas City",
+   "team": "Kansas City",
+   "prob": 0.875,
+   "prev": 0.0,
+   "volume": 1397.54,
+   "volume_24h": 1397.54,
+   "open_interest": 1397.54
+  },
+  {
+   "event": "KXNFLGAME-26NOV22ARIKC",
+   "title": "Arizona vs Kansas City",
+   "team": "Arizona",
+   "prob": 0.125,
+   "prev": 0.0,
+   "volume": 1188.55,
+   "volume_24h": 1188.55,
+   "open_interest": 1151.85
+  },
+  {
+   "event": "KXNFLGAME-26NOV22BALCAR",
+   "title": "Baltimore vs Carolina",
+   "team": "Carolina",
+   "prob": 0.53,
+   "prev": 0.0,
+   "volume": 167.6,
+   "volume_24h": 167.6,
+   "open_interest": 167.6
+  },
+  {
+   "event": "KXNFLGAME-26NOV22BALCAR",
+   "title": "Baltimore vs Carolina",
+   "team": "Baltimore",
+   "prob": 0.48,
+   "prev": 0.0,
+   "volume": 52.31,
+   "volume_24h": 52.31,
+   "open_interest": 52.31
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MIABUF",
+   "title": "Miami vs Buffalo",
+   "team": "Buffalo",
+   "prob": 0.925,
+   "prev": 0.0,
+   "volume": 2484.66,
+   "volume_24h": 2484.66,
+   "open_interest": 2294.16
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MIABUF",
+   "title": "Miami vs Buffalo",
+   "team": "Miami",
+   "prob": 0.075,
+   "prev": 0.0,
+   "volume": 2089.74,
+   "volume_24h": 2078.0,
+   "open_interest": 2003.71
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NOCHI",
+   "title": "New Orleans vs Chicago",
+   "team": "Chicago",
+   "prob": 0.835,
+   "prev": 0.0,
+   "volume": 5554.8,
+   "volume_24h": 5554.8,
+   "open_interest": 5377.32
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NOCHI",
+   "title": "New Orleans vs Chicago",
+   "team": "New Orleans",
+   "prob": 0.175,
+   "prev": 0.0,
+   "volume": 1220.27,
+   "volume_24h": 1220.27,
+   "open_interest": 1199.92
+  },
+  {
+   "event": "KXNFLGAME-26NOV22PITPHI",
+   "title": "Pittsburgh vs Philadelphia",
+   "team": "Philadelphia",
+   "prob": 0.35,
+   "prev": 0.0,
+   "volume": 214.91,
+   "volume_24h": 214.91,
+   "open_interest": 207.42
+  },
+  {
+   "event": "KXNFLGAME-26NOV22PITPHI",
+   "title": "Pittsburgh vs Philadelphia",
+   "team": "Pittsburgh",
+   "prob": 0.67,
+   "prev": 0.0,
+   "volume": 809.69,
+   "volume_24h": 809.69,
+   "open_interest": 801.46
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TBDET",
+   "title": "Tampa Bay vs Detroit",
+   "team": "Detroit",
+   "prob": 0.64,
+   "prev": 0.0,
+   "volume": 438.06,
+   "volume_24h": 438.06,
+   "open_interest": 437.06
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TBDET",
+   "title": "Tampa Bay vs Detroit",
+   "team": "Tampa Bay",
+   "prob": 0.365,
+   "prev": 0.0,
+   "volume": 208.91,
+   "volume_24h": 208.91,
+   "open_interest": 208.68
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TENDAL",
+   "title": "Tennessee vs Dallas",
+   "team": "Dallas",
+   "prob": 0.8,
+   "prev": 0.0,
+   "volume": 548.04,
+   "volume_24h": 548.04,
+   "open_interest": 548.04
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TENDAL",
+   "title": "Tennessee vs Dallas",
+   "team": "Tennessee",
+   "prob": 0.2,
+   "prev": 0.0,
+   "volume": 545.71,
+   "volume_24h": 545.71,
+   "open_interest": 541.08
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NYJLAC",
+   "title": "New York J vs Los Angeles C",
+   "team": "Los Angeles C",
+   "prob": 0.54,
+   "prev": 0.0,
+   "volume": 689.22,
+   "volume_24h": 689.22,
+   "open_interest": 676.22
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NYJLAC",
+   "title": "New York J vs Los Angeles C",
+   "team": "New York J",
+   "prob": 0.455,
+   "prev": 0.0,
+   "volume": 380.35,
+   "volume_24h": 380.35,
+   "open_interest": 200.35
+  },
+  {
+   "event": "KXNFLGAME-26NOV22JACNYG",
+   "title": "Jacksonville vs New York G",
+   "team": "New York G",
+   "prob": 0.3,
+   "prev": 0.0,
+   "volume": 343.16,
+   "volume_24h": 343.16,
+   "open_interest": 343.16
+  },
+  {
+   "event": "KXNFLGAME-26NOV22JACNYG",
+   "title": "Jacksonville vs New York G",
+   "team": "Jacksonville",
+   "prob": 0.7,
+   "prev": 0.0,
+   "volume": 673.35,
+   "volume_24h": 673.35,
+   "open_interest": 673.35
+  },
+  {
+   "event": "KXNFLGAME-26NOV22LVDEN",
+   "title": "Las Vegas vs Denver",
+   "team": "Denver",
+   "prob": 0.795,
+   "prev": 0.0,
+   "volume": 2882.5,
+   "volume_24h": 2879.89,
+   "open_interest": 2815.71
+  },
+  {
+   "event": "KXNFLGAME-26NOV22LVDEN",
+   "title": "Las Vegas vs Denver",
+   "team": "Las Vegas",
+   "prob": 0.205,
+   "prev": 0.0,
+   "volume": 1049.6,
+   "volume_24h": 1049.6,
+   "open_interest": 911.4
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MINSF",
+   "title": "Minnesota vs San Francisco",
+   "team": "San Francisco",
+   "prob": 0.67,
+   "prev": 0.0,
+   "volume": 1409.71,
+   "volume_24h": 1409.71,
+   "open_interest": 1059.34
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MINSF",
+   "title": "Minnesota vs San Francisco",
+   "team": "Minnesota",
+   "prob": 0.33,
+   "prev": 0.0,
+   "volume": 2421.24,
+   "volume_24h": 2421.24,
+   "open_interest": 2201.08
+  },
+  {
+   "event": "KXNFLGAME-26NOV23CINWAS",
+   "title": "Cincinnati vs Washington",
+   "team": "Washington",
+   "prob": 0.345,
+   "prev": 0.0,
+   "volume": 1.0,
+   "volume_24h": 1.0,
+   "open_interest": 1.0
+  },
+  {
+   "event": "KXNFLGAME-26NOV23CINWAS",
+   "title": "Cincinnati vs Washington",
+   "team": "Cincinnati",
+   "prob": 0.65,
+   "prev": 0.0,
+   "volume": 84.83,
+   "volume_24h": 84.83,
+   "open_interest": 84.83
+  }
+ ],
+ "weather": [
+  {
+   "game": "WSH @ NYG",
+   "indoor": false,
+   "temp_f": 52,
+   "wind_mph": 13,
+   "gust_mph": 17,
+   "precip_prob": 0.67,
+   "snow": false,
+   "flags": [],
+   "summary": "52F, wind 13 mph (gusts 17), precip 67%"
+  }
+ ],
  "lines": [
   {
    "id": "74d39e19225caf211ad2c8eb4110179f",
@@ -2157,561 +2712,6 @@
    "total": 51.5,
    "home_win_prob": 0.353,
    "books": 5
-  }
- ],
- "kalshi": [
-  {
-   "event": "KXNFLGAME-26NOV12WASNYG",
-   "title": "Washington vs New York G",
-   "team": "New York G",
-   "prob": 0.565,
-   "prev": 0.54,
-   "volume": 649413.88,
-   "volume_24h": 346707.8,
-   "open_interest": 383331.33
-  },
-  {
-   "event": "KXNFLGAME-26NOV12WASNYG",
-   "title": "Washington vs New York G",
-   "team": "Washington",
-   "prob": 0.435,
-   "prev": 0.46,
-   "volume": 201054.97,
-   "volume_24h": 134257.3,
-   "open_interest": 168127.24
-  },
-  {
-   "event": "KXNFLGAME-26NOV15NEDET",
-   "title": "New England vs Detroit",
-   "team": "Detroit",
-   "prob": 0.575,
-   "prev": 0.59,
-   "volume": 153205.11,
-   "volume_24h": 46750.24,
-   "open_interest": 120668.08
-  },
-  {
-   "event": "KXNFLGAME-26NOV15NEDET",
-   "title": "New England vs Detroit",
-   "team": "New England",
-   "prob": 0.42,
-   "prev": 0.43,
-   "volume": 113852.74,
-   "volume_24h": 15226.27,
-   "open_interest": 103717.5
-  },
-  {
-   "event": "KXNFLGAME-26NOV15BUFNYJ",
-   "title": "Buffalo vs New York J",
-   "team": "New York J",
-   "prob": 0.195,
-   "prev": 0.21,
-   "volume": 27597.02,
-   "volume_24h": 7032.54,
-   "open_interest": 21173.69
-  },
-  {
-   "event": "KXNFLGAME-26NOV15BUFNYJ",
-   "title": "Buffalo vs New York J",
-   "team": "Buffalo",
-   "prob": 0.805,
-   "prev": 0.8,
-   "volume": 135481.26,
-   "volume_24h": 92931.49,
-   "open_interest": 114688.95
-  },
-  {
-   "event": "KXNFLGAME-26NOV15CARNO",
-   "title": "Carolina vs New Orleans",
-   "team": "New Orleans",
-   "prob": 0.555,
-   "prev": 0.53,
-   "volume": 40597.86,
-   "volume_24h": 19818.1,
-   "open_interest": 27487.69
-  },
-  {
-   "event": "KXNFLGAME-26NOV15CARNO",
-   "title": "Carolina vs New Orleans",
-   "team": "Carolina",
-   "prob": 0.445,
-   "prev": 0.49,
-   "volume": 98139.25,
-   "volume_24h": 66354.8,
-   "open_interest": 96252.39
-  },
-  {
-   "event": "KXNFLGAME-26NOV15HOUCLE",
-   "title": "Houston vs Cleveland",
-   "team": "Cleveland",
-   "prob": 0.335,
-   "prev": 0.34,
-   "volume": 37508.32,
-   "volume_24h": 14907.4,
-   "open_interest": 29111.61
-  },
-  {
-   "event": "KXNFLGAME-26NOV15HOUCLE",
-   "title": "Houston vs Cleveland",
-   "team": "Houston",
-   "prob": 0.675,
-   "prev": 0.67,
-   "volume": 23691.01,
-   "volume_24h": 10054.46,
-   "open_interest": 16549.58
-  },
-  {
-   "event": "KXNFLGAME-26NOV15JACTEN",
-   "title": "Jacksonville vs Tennessee",
-   "team": "Tennessee",
-   "prob": 0.165,
-   "prev": 0.18,
-   "volume": 44409.31,
-   "volume_24h": 11915.25,
-   "open_interest": 37590.78
-  },
-  {
-   "event": "KXNFLGAME-26NOV15JACTEN",
-   "title": "Jacksonville vs Tennessee",
-   "team": "Jacksonville",
-   "prob": 0.835,
-   "prev": 0.83,
-   "volume": 168141.88,
-   "volume_24h": 57324.08,
-   "open_interest": 152141.09
-  },
-  {
-   "event": "KXNFLGAME-26NOV15KCATL",
-   "title": "Kansas City vs Atlanta",
-   "team": "Atlanta",
-   "prob": 0.365,
-   "prev": 0.37,
-   "volume": 21197.54,
-   "volume_24h": 6047.6,
-   "open_interest": 13059.68
-  },
-  {
-   "event": "KXNFLGAME-26NOV15KCATL",
-   "title": "Kansas City vs Atlanta",
-   "team": "Kansas City",
-   "prob": 0.635,
-   "prev": 0.63,
-   "volume": 102586.05,
-   "volume_24h": 36127.36,
-   "open_interest": 75204.65
-  },
-  {
-   "event": "KXNFLGAME-26NOV15MIAIND",
-   "title": "Miami vs Indianapolis",
-   "team": "Indianapolis",
-   "prob": 0.645,
-   "prev": 0.57,
-   "volume": 430704.23,
-   "volume_24h": 424991.04,
-   "open_interest": 426314.42
-  },
-  {
-   "event": "KXNFLGAME-26NOV15MIAIND",
-   "title": "Miami vs Indianapolis",
-   "team": "Miami",
-   "prob": 0.355,
-   "prev": 0.44,
-   "volume": 54369.05,
-   "volume_24h": 47840.24,
-   "open_interest": 47936.32
-  },
-  {
-   "event": "KXNFLGAME-26NOV15MINGB",
-   "title": "Minnesota vs Green Bay",
-   "team": "Green Bay",
-   "prob": 0.615,
-   "prev": 0.63,
-   "volume": 490111.09,
-   "volume_24h": 439813.88,
-   "open_interest": 447235.59
-  },
-  {
-   "event": "KXNFLGAME-26NOV15MINGB",
-   "title": "Minnesota vs Green Bay",
-   "team": "Minnesota",
-   "prob": 0.385,
-   "prev": 0.38,
-   "volume": 299244.63,
-   "volume_24h": 268644.01,
-   "open_interest": 268152.69
-  },
-  {
-   "event": "KXNFLGAME-26NOV15LARARI",
-   "title": "Los Angeles R vs Arizona",
-   "team": "Arizona",
-   "prob": 0.215,
-   "prev": 0.22,
-   "volume": 35952.76,
-   "volume_24h": 15866.93,
-   "open_interest": 21740.92
-  },
-  {
-   "event": "KXNFLGAME-26NOV15LARARI",
-   "title": "Los Angeles R vs Arizona",
-   "team": "Los Angeles R",
-   "prob": 0.795,
-   "prev": 0.8,
-   "volume": 61982.0,
-   "volume_24h": 40143.34,
-   "open_interest": 56852.68
-  },
-  {
-   "event": "KXNFLGAME-26NOV15SEALV",
-   "title": "Seattle vs Las Vegas",
-   "team": "Las Vegas",
-   "prob": 0.275,
-   "prev": 0.38,
-   "volume": 210756.7,
-   "volume_24h": 47770.98,
-   "open_interest": 78309.03
-  },
-  {
-   "event": "KXNFLGAME-26NOV15SEALV",
-   "title": "Seattle vs Las Vegas",
-   "team": "Seattle",
-   "prob": 0.735,
-   "prev": 0.62,
-   "volume": 490259.14,
-   "volume_24h": 395792.32,
-   "open_interest": 472191.3
-  },
-  {
-   "event": "KXNFLGAME-26NOV15SFDAL",
-   "title": "San Francisco vs Dallas",
-   "team": "Dallas",
-   "prob": 0.335,
-   "prev": 0.33,
-   "volume": 83739.33,
-   "volume_24h": 51709.88,
-   "open_interest": 74849.53
-  },
-  {
-   "event": "KXNFLGAME-26NOV15SFDAL",
-   "title": "San Francisco vs Dallas",
-   "team": "San Francisco",
-   "prob": 0.665,
-   "prev": 0.68,
-   "volume": 270529.94,
-   "volume_24h": 171278.5,
-   "open_interest": 208009.18
-  },
-  {
-   "event": "KXNFLGAME-26NOV15PITCIN",
-   "title": "Pittsburgh vs Cincinnati",
-   "team": "Cincinnati",
-   "prob": 0.635,
-   "prev": 0.65,
-   "volume": 70894.76,
-   "volume_24h": 43715.17,
-   "open_interest": 66312.7
-  },
-  {
-   "event": "KXNFLGAME-26NOV15PITCIN",
-   "title": "Pittsburgh vs Cincinnati",
-   "team": "Pittsburgh",
-   "prob": 0.365,
-   "prev": 0.36,
-   "volume": 110598.71,
-   "volume_24h": 45262.84,
-   "open_interest": 98228.79
-  },
-  {
-   "event": "KXNFLGAME-26NOV16LACBAL",
-   "title": "Los Angeles C vs Baltimore",
-   "team": "Baltimore",
-   "prob": 0.675,
-   "prev": 0.69,
-   "volume": 40305.2,
-   "volume_24h": 6838.22,
-   "open_interest": 25259.98
-  },
-  {
-   "event": "KXNFLGAME-26NOV16LACBAL",
-   "title": "Los Angeles C vs Baltimore",
-   "team": "Los Angeles C",
-   "prob": 0.325,
-   "prev": 0.33,
-   "volume": 47575.17,
-   "volume_24h": 16975.5,
-   "open_interest": 33299.62
-  },
-  {
-   "event": "KXNFLGAME-26NOV19INDHOU",
-   "title": "Indianapolis vs Houston",
-   "team": "Houston",
-   "prob": 0.825,
-   "prev": 0.0,
-   "volume": 741.49,
-   "volume_24h": 741.49,
-   "open_interest": 700.49
-  },
-  {
-   "event": "KXNFLGAME-26NOV19INDHOU",
-   "title": "Indianapolis vs Houston",
-   "team": "Indianapolis",
-   "prob": 0.185,
-   "prev": 0.0,
-   "volume": 948.49,
-   "volume_24h": 948.49,
-   "open_interest": 924.42
-  },
-  {
-   "event": "KXNFLGAME-26NOV22ARIKC",
-   "title": "Arizona vs Kansas City",
-   "team": "Kansas City",
-   "prob": 0.875,
-   "prev": 0.0,
-   "volume": 1396.98,
-   "volume_24h": 1396.98,
-   "open_interest": 1396.98
-  },
-  {
-   "event": "KXNFLGAME-26NOV22ARIKC",
-   "title": "Arizona vs Kansas City",
-   "team": "Arizona",
-   "prob": 0.125,
-   "prev": 0.0,
-   "volume": 1188.55,
-   "volume_24h": 1188.55,
-   "open_interest": 1151.85
-  },
-  {
-   "event": "KXNFLGAME-26NOV22BALCAR",
-   "title": "Baltimore vs Carolina",
-   "team": "Carolina",
-   "prob": 0.53,
-   "prev": 0.0,
-   "volume": 167.6,
-   "volume_24h": 167.6,
-   "open_interest": 167.6
-  },
-  {
-   "event": "KXNFLGAME-26NOV22BALCAR",
-   "title": "Baltimore vs Carolina",
-   "team": "Baltimore",
-   "prob": 0.48,
-   "prev": 0.0,
-   "volume": 52.31,
-   "volume_24h": 52.31,
-   "open_interest": 52.31
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MIABUF",
-   "title": "Miami vs Buffalo",
-   "team": "Buffalo",
-   "prob": 0.925,
-   "prev": 0.0,
-   "volume": 2484.66,
-   "volume_24h": 2484.66,
-   "open_interest": 2294.16
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MIABUF",
-   "title": "Miami vs Buffalo",
-   "team": "Miami",
-   "prob": 0.075,
-   "prev": 0.0,
-   "volume": 2078.0,
-   "volume_24h": 2078.0,
-   "open_interest": 1998.71
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NOCHI",
-   "title": "New Orleans vs Chicago",
-   "team": "Chicago",
-   "prob": 0.835,
-   "prev": 0.0,
-   "volume": 5554.22,
-   "volume_24h": 5554.22,
-   "open_interest": 5376.74
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NOCHI",
-   "title": "New Orleans vs Chicago",
-   "team": "New Orleans",
-   "prob": 0.175,
-   "prev": 0.0,
-   "volume": 1220.27,
-   "volume_24h": 1220.27,
-   "open_interest": 1199.92
-  },
-  {
-   "event": "KXNFLGAME-26NOV22PITPHI",
-   "title": "Pittsburgh vs Philadelphia",
-   "team": "Philadelphia",
-   "prob": 0.35,
-   "prev": 0.0,
-   "volume": 214.91,
-   "volume_24h": 214.91,
-   "open_interest": 207.42
-  },
-  {
-   "event": "KXNFLGAME-26NOV22PITPHI",
-   "title": "Pittsburgh vs Philadelphia",
-   "team": "Pittsburgh",
-   "prob": 0.67,
-   "prev": 0.0,
-   "volume": 809.69,
-   "volume_24h": 809.69,
-   "open_interest": 801.46
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TBDET",
-   "title": "Tampa Bay vs Detroit",
-   "team": "Detroit",
-   "prob": 0.64,
-   "prev": 0.0,
-   "volume": 438.06,
-   "volume_24h": 438.06,
-   "open_interest": 437.06
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TBDET",
-   "title": "Tampa Bay vs Detroit",
-   "team": "Tampa Bay",
-   "prob": 0.365,
-   "prev": 0.0,
-   "volume": 208.91,
-   "volume_24h": 208.91,
-   "open_interest": 208.68
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TENDAL",
-   "title": "Tennessee vs Dallas",
-   "team": "Dallas",
-   "prob": 0.8,
-   "prev": 0.0,
-   "volume": 548.04,
-   "volume_24h": 548.04,
-   "open_interest": 548.04
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TENDAL",
-   "title": "Tennessee vs Dallas",
-   "team": "Tennessee",
-   "prob": 0.2,
-   "prev": 0.0,
-   "volume": 545.71,
-   "volume_24h": 545.71,
-   "open_interest": 541.08
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NYJLAC",
-   "title": "New York J vs Los Angeles C",
-   "team": "Los Angeles C",
-   "prob": 0.54,
-   "prev": 0.0,
-   "volume": 689.22,
-   "volume_24h": 687.46,
-   "open_interest": 676.22
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NYJLAC",
-   "title": "New York J vs Los Angeles C",
-   "team": "New York J",
-   "prob": 0.455,
-   "prev": 0.0,
-   "volume": 290.35,
-   "volume_24h": 290.35,
-   "open_interest": 290.35
-  },
-  {
-   "event": "KXNFLGAME-26NOV22JACNYG",
-   "title": "Jacksonville vs New York G",
-   "team": "New York G",
-   "prob": 0.3,
-   "prev": 0.0,
-   "volume": 343.16,
-   "volume_24h": 343.16,
-   "open_interest": 343.16
-  },
-  {
-   "event": "KXNFLGAME-26NOV22JACNYG",
-   "title": "Jacksonville vs New York G",
-   "team": "Jacksonville",
-   "prob": 0.7,
-   "prev": 0.0,
-   "volume": 673.35,
-   "volume_24h": 673.35,
-   "open_interest": 673.35
-  },
-  {
-   "event": "KXNFLGAME-26NOV22LVDEN",
-   "title": "Las Vegas vs Denver",
-   "team": "Denver",
-   "prob": 0.795,
-   "prev": 0.0,
-   "volume": 2855.24,
-   "volume_24h": 2818.26,
-   "open_interest": 2788.45
-  },
-  {
-   "event": "KXNFLGAME-26NOV22LVDEN",
-   "title": "Las Vegas vs Denver",
-   "team": "Las Vegas",
-   "prob": 0.205,
-   "prev": 0.0,
-   "volume": 1049.6,
-   "volume_24h": 1049.6,
-   "open_interest": 911.4
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MINSF",
-   "title": "Minnesota vs San Francisco",
-   "team": "San Francisco",
-   "prob": 0.67,
-   "prev": 0.0,
-   "volume": 1409.71,
-   "volume_24h": 1409.71,
-   "open_interest": 1059.34
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MINSF",
-   "title": "Minnesota vs San Francisco",
-   "team": "Minnesota",
-   "prob": 0.33,
-   "prev": 0.0,
-   "volume": 2421.24,
-   "volume_24h": 2421.24,
-   "open_interest": 2201.08
-  },
-  {
-   "event": "KXNFLGAME-26NOV23CINWAS",
-   "title": "Cincinnati vs Washington",
-   "team": "Washington",
-   "prob": 0.345,
-   "prev": 0.0,
-   "volume": 1.0,
-   "volume_24h": 1.0,
-   "open_interest": 1.0
-  },
-  {
-   "event": "KXNFLGAME-26NOV23CINWAS",
-   "title": "Cincinnati vs Washington",
-   "team": "Cincinnati",
-   "prob": 0.65,
-   "prev": 0.0,
-   "volume": 84.83,
-   "volume_24h": 84.83,
-   "open_interest": 84.83
-  }
- ],
- "weather": [
-  {
-   "game": "WSH @ NYG",
-   "indoor": false,
-   "temp_f": 52,
-   "wind_mph": 13,
-   "gust_mph": 17,
-   "precip_prob": 0.67,
-   "snow": false,
-   "flags": [],
-   "summary": "52F, wind 13 mph (gusts 17), precip 67%"
   }
  ]
 }

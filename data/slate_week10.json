@@ -6,18 +6,18 @@
   "venue": "MetLife Stadium",
   "indoor": false,
   "records": "WSH 2-5-1 / NYG 5-2-1",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -2.5,
+  "total": 41.0,
+  "home_win_prob_books": 0.551,
   "kalshi": {
    "New York G": {
     "p": 0.565,
-    "vol": 649413.88,
+    "vol": 650000.06,
     "vol24h": 346707.8
    },
    "Washington": {
     "p": 0.435,
-    "vol": 201054.97,
+    "vol": 203251.59,
     "vol24h": 134257.3
    }
   },
@@ -28,7 +28,7 @@
    },
    "volume": 28383.304263000005
   },
-  "weather": null,
+  "weather": "52F, wind 13 mph (gusts 17), precip 67%",
   "state": "11/12 - 8:15 PM EST"
  },
  {
@@ -38,18 +38,18 @@
   "venue": "FC Bayern Munich Stadium",
   "indoor": false,
   "records": "NE 5-4 / DET 6-2",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -3.0,
+  "total": 51.0,
+  "home_win_prob_books": 0.59,
   "kalshi": {
    "Detroit": {
     "p": 0.575,
-    "vol": 153205.11,
+    "vol": 153272.1,
     "vol24h": 46750.24
    },
    "New England": {
     "p": 0.42,
-    "vol": 113852.74,
+    "vol": 113862.74,
     "vol24h": 15226.27
    }
   },
@@ -60,7 +60,7 @@
    },
    "volume": 19927.018424
   },
-  "weather": null,
+  "weather": "Neutral site (FC Bayern Munich Stadium, Munich) - check weather manually",
   "state": "11/15 - 9:30 AM EST"
  },
  {
@@ -70,9 +70,9 @@
   "venue": "Mercedes-Benz Stadium",
   "indoor": true,
   "records": "KC 6-2 / ATL 3-6",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 3.5,
+  "total": 45.0,
+  "home_win_prob_books": 0.376,
   "kalshi": {
    "Atlanta": {
     "p": 0.365,
@@ -81,7 +81,7 @@
    },
    "Kansas City": {
     "p": 0.635,
-    "vol": 102586.05,
+    "vol": 102608.91,
     "vol24h": 36127.36
    }
   },
@@ -92,7 +92,7 @@
    },
    "volume": 12906.849682
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -102,9 +102,9 @@
   "venue": "Huntington Bank Field",
   "indoor": false,
   "records": "HOU 3-5 / CLE 5-4",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 5.0,
+  "total": 40.0,
+  "home_win_prob_books": 0.331,
   "kalshi": {
    "Cleveland": {
     "p": 0.335,
@@ -113,7 +113,7 @@
    },
    "Houston": {
     "p": 0.675,
-    "vol": 23691.01,
+    "vol": 23693.88,
     "vol24h": 10054.46
    }
   },
@@ -124,7 +124,7 @@
    },
    "volume": 5099.0285730000005
   },
-  "weather": null,
+  "weather": "47F, wind 9 mph (gusts 9), precip 10%",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -134,18 +134,18 @@
   "venue": "Lambeau Field",
   "indoor": false,
   "records": "MIN 6-2 / GB 6-3",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -3.5,
+  "total": 41.5,
+  "home_win_prob_books": 0.617,
   "kalshi": {
    "Green Bay": {
     "p": 0.615,
-    "vol": 490111.09,
+    "vol": 490213.01,
     "vol24h": 439813.88
    },
    "Minnesota": {
     "p": 0.385,
-    "vol": 299244.63,
+    "vol": 299428.2,
     "vol24h": 268644.01
    }
   },
@@ -156,7 +156,7 @@
    },
    "volume": 17754.321368
   },
-  "weather": null,
+  "weather": "44F, wind 7 mph (gusts 8), precip 1%",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -166,18 +166,18 @@
   "venue": "Nissan Stadium",
   "indoor": false,
   "records": "JAX 6-2 / TEN 1-7",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 10.5,
+  "total": 46.5,
+  "home_win_prob_books": 0.183,
   "kalshi": {
    "Tennessee": {
     "p": 0.165,
-    "vol": 44409.31,
+    "vol": 44461.94,
     "vol24h": 11915.25
    },
    "Jacksonville": {
     "p": 0.835,
-    "vol": 168141.88,
+    "vol": 168153.65,
     "vol24h": 57324.08
    }
   },
@@ -188,7 +188,7 @@
    },
    "volume": 4083.705083
   },
-  "weather": null,
+  "weather": "51F, wind 7 mph (gusts 10), precip 0%",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -198,9 +198,9 @@
   "venue": "Lucas Oil Stadium",
   "indoor": true,
   "records": "MIA 1-7 / IND 2-7",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -3.5,
+  "total": 38.0,
+  "home_win_prob_books": 0.636,
   "kalshi": {
    "Indianapolis": {
     "p": 0.645,
@@ -209,7 +209,7 @@
    },
    "Miami": {
     "p": 0.355,
-    "vol": 54369.05,
+    "vol": 54422.22,
     "vol24h": 47840.24
    }
   },
@@ -220,7 +220,7 @@
    },
    "volume": 15518.27931
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -230,9 +230,9 @@
   "venue": "Caesars Superdome",
   "indoor": true,
   "records": "CAR 3-5 / NO 3-5",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -2.5,
+  "total": 49.0,
+  "home_win_prob_books": 0.553,
   "kalshi": {
    "New Orleans": {
     "p": 0.555,
@@ -241,7 +241,7 @@
    },
    "Carolina": {
     "p": 0.445,
-    "vol": 98139.25,
+    "vol": 98149.25,
     "vol24h": 66354.8
    }
   },
@@ -252,7 +252,7 @@
    },
    "volume": 2895.166195
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -262,9 +262,9 @@
   "venue": "MetLife Stadium",
   "indoor": false,
   "records": "BUF 7-1 / NYJ 2-7",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 8.0,
+  "total": 51.0,
+  "home_win_prob_books": 0.217,
   "kalshi": {
    "New York J": {
     "p": 0.195,
@@ -273,7 +273,7 @@
    },
    "Buffalo": {
     "p": 0.805,
-    "vol": 135481.26,
+    "vol": 135528.6,
     "vol24h": 92931.49
    }
   },
@@ -284,7 +284,7 @@
    },
    "volume": 15869.834479000001
   },
-  "weather": null,
+  "weather": "50F, wind 7 mph (gusts 9), precip 0%",
   "state": "11/15 - 1:00 PM EST"
  },
  {
@@ -294,18 +294,18 @@
   "venue": "Allegiant Stadium",
   "indoor": true,
   "records": "SEA 5-4 / LV 4-5",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 6.5,
+  "total": 40.5,
+  "home_win_prob_books": 0.291,
   "kalshi": {
    "Las Vegas": {
     "p": 0.275,
-    "vol": 210756.7,
+    "vol": 210868.22,
     "vol24h": 47770.98
    },
    "Seattle": {
     "p": 0.735,
-    "vol": 490259.14,
+    "vol": 490335.56,
     "vol24h": 395792.32
    }
   },
@@ -316,7 +316,7 @@
    },
    "volume": 22068.066559
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 4:05 PM EST"
  },
  {
@@ -326,18 +326,18 @@
   "venue": "State Farm Stadium",
   "indoor": true,
   "records": "LAR 5-4 / ARI 3-6",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 9.5,
+  "total": 39.0,
+  "home_win_prob_books": 0.218,
   "kalshi": {
    "Arizona": {
     "p": 0.215,
-    "vol": 35952.76,
+    "vol": 35979.06,
     "vol24h": 15866.93
    },
    "Los Angeles R": {
     "p": 0.795,
-    "vol": 61982.0,
+    "vol": 61982.17,
     "vol24h": 40143.34
    }
   },
@@ -348,7 +348,7 @@
    },
    "volume": 4840.0944580000005
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 4:05 PM EST"
  },
  {
@@ -358,18 +358,18 @@
   "venue": "AT&T Stadium",
   "indoor": true,
   "records": "SF 7-1 / DAL 4-5",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": 4.0,
+  "total": 55.5,
+  "home_win_prob_books": 0.349,
   "kalshi": {
    "Dallas": {
     "p": 0.335,
-    "vol": 83739.33,
+    "vol": 83773.06,
     "vol24h": 51709.88
    },
    "San Francisco": {
     "p": 0.665,
-    "vol": 270529.94,
+    "vol": 270761.98,
     "vol24h": 171278.5
    }
   },
@@ -380,7 +380,7 @@
    },
    "volume": 19599.685994
   },
-  "weather": null,
+  "weather": "Indoors/roof - weather not a factor",
   "state": "11/15 - 4:25 PM EST"
  },
  {
@@ -390,9 +390,9 @@
   "venue": "Paycor Stadium",
   "indoor": false,
   "records": "PIT 6-2 / CIN 6-2",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -3.5,
+  "total": 49.5,
+  "home_win_prob_books": 0.63,
   "kalshi": {
    "Cincinnati": {
     "p": 0.635,
@@ -412,7 +412,7 @@
    },
    "volume": 4302.1335309999995
   },
-  "weather": null,
+  "weather": "40F, wind 4 mph (gusts 5), precip 0%",
   "state": "11/15 - 8:20 PM EST"
  },
  {
@@ -422,9 +422,9 @@
   "venue": "M&T Bank Stadium",
   "indoor": false,
   "records": "LAC 0-8 / BAL 4-5",
-  "home_spread": null,
-  "total": null,
-  "home_win_prob_books": null,
+  "home_spread": -4.5,
+  "total": 38.5,
+  "home_win_prob_books": 0.659,
   "kalshi": {
    "Baltimore": {
     "p": 0.675,
@@ -444,7 +444,7 @@
    },
    "volume": 5647.6718439999995
   },
-  "weather": null,
+  "weather": "48F, wind 4 mph (gusts 9), precip 1%",
   "state": "11/16 - 8:15 PM EST"
  }
 ]
