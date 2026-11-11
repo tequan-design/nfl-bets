@@ -1,0 +1,31 @@
+{
+ "log": [
+  {
+   "at": "2026-11-11T04:06:05Z",
+   "what": "game_lines",
+   "cost": "3"
+  },
+  {
+   "at": "2026-11-11T04:06:30Z",
+   "what": "events",
+   "cost": "0"
+  },
+  {
+   "at": "2026-11-11T04:06:30Z",
+   "what": "props 74d39e19225caf211ad2c8eb4110179f player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-11T04:06:30Z",
+   "what": "props 8ba112fabf4e87639338a5f437c5abfe player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "0"
+  },
+  {
+   "at": "2026-11-11T04:06:31Z",
+   "what": "game_lines",
+   "cost": "3"
+  }
+ ],
+ "remaining": 485,
+ "used": 15
+}

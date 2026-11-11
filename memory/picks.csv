@@ -1,0 +1,21 @@
+season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,est_hit,stake,multiplier,tnf,result,actual,notes
+2026,8,2026-10-29,report,,suggested,Gunnar Helm,TEN,TEN@CIN,rec_yds,15.5,over,0.6,,,,hit,76.0,Week 8 conservative report
+2026,8,2026-10-29,prizepicks,,suggested,Hunter Henry,NE,NE@MIA,rec_yds,35,over,0.65,,,,miss,30.0,goblin ~35; 44+ in four straight
+2026,8,2026-10-29,report,,suggested,Matthew Stafford,LAR,LAC@LAR,pass_yds,249.5,over,0.6,,,,miss,157.0,-150 at 250
+2026,8,2026-10-29,report,,suggested,Kyren Williams,LAR,LAC@LAR,anytime_td,0.5,over,0.662,,,,hit,1.0,Dimers 66.2%
+2026,8,2026-10-29,report,,suggested,Josh Allen,BUF,,anytime_td,0.5,over,0.615,,,,hit,1.0,-160
+2026,8,2026-10-29,report,,suggested,James Cook,BUF,,anytime_td,0.5,over,0.59,,,,hit,1.0,59%
+2026,9,2026-11-08,report,,suggested,HOU,HOU,HOU@LAC,ml,,win,0.67,,,,hit,W,Texans ML -203
+2026,9,2026-11-08,report,,suggested,Woody Marks,HOU,HOU@LAC,anytime_td,0.5,over,0.476,,,,miss,0,+110
+2026,9,2026-11-08,report,,suggested,Efton Chism III,NE,GB@NE,rec,2.5,under,0.6,,,,miss,5.0,"-125 BetMGM, fair -150"
+2026,9,2026-11-08,report,,suggested,Jordan Love,GB,GB@NE,rush_yds,4.5,under,0.54,,,,miss,13.0,-117
+2026,9,2026-11-08,report,,suggested,Josh Jacobs,GB,GB@NE,rush_yds,45.5,over,0.52,,,,miss,5.0,-110
+2026,9,2026-11-08,report,,suggested,NE,NE,GB@NE,ml,,win,0.6,,,,miss,L,parlay leg
+2026,9,2026-11-08,report,,suggested,Gardner Minshew,ARI,ARI@SEA,pass_td,0.5,over,0.7,,,,miss,0.0,-238
+2026,9,2026-11-08,report,,suggested,Zach Charbonnet,SEA,ARI@SEA,rush_yds,39.5,under,0.53,,,,miss,77.0,-114
+2026,9,2026-11-08,report,,suggested,Cooper Kupp,SEA,ARI@SEA,rec_yds,25.5,under,0.52,,,,miss,32.0,-109
+2026,9,2026-11-08,kalshi,,suggested,Baker Mayfield,TB,TB@CHI,pass_td,1.5,under,0.6,,,,hit,0.0,-144 Kalshi
+2026,9,2026-11-08,report,,suggested,Bucky Irving,TB,TB@CHI,rush_att,15.5,over,0.53,,,,hit,20.0,-115
+2026,9,2026-11-08,report,,suggested,Caleb Williams,CHI,TB@CHI,pass_yds,224.5,over,0.55,,,,hit,279.0,lowest line
+2026,9,2026-11-08,report,,suggested,Josh Allen,BUF,BUF@MIN,pass_comp,20.5,under,0.52,,,,miss,21.0,FTN proj 16.9
+2026,9,2026-11-08,report,,suggested,Dawson Knox,BUF,BUF@MIN,rec,1.5,under,0.69,,,,miss,4.0,-222

@@ -1,0 +1,1122 @@
+[
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Isaiah Likely",
+  "threshold": 20.0,
+  "prob": 0.85,
+  "volume": 6.88,
+  "spread": 0.02
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Tetairoa McMillan",
+  "threshold": 25.0,
+  "prob": 0.85,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "George Kittle",
+  "threshold": 25.0,
+  "prob": 0.85,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Jaylen Warren",
+  "threshold": 30.0,
+  "prob": 0.85,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Antonio Williams",
+  "threshold": 15.0,
+  "prob": 0.845,
+  "volume": 111.39,
+  "spread": 0.03
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Austin Ekeler",
+  "threshold": 10.0,
+  "prob": 0.845,
+  "volume": 29.55,
+  "spread": 0.01
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Malik Nabers",
+  "threshold": 30.0,
+  "prob": 0.845,
+  "volume": 4.86,
+  "spread": 0.01
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Jahmyr Gibbs",
+  "threshold": 10.0,
+  "prob": 0.845,
+  "volume": 0.01,
+  "spread": 0.07
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Amon-Ra St. Brown",
+  "threshold": 40.0,
+  "prob": 0.845,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Matthew Golden",
+  "threshold": 30.0,
+  "prob": 0.845,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "T.J. Hockenson",
+  "threshold": 15.0,
+  "prob": 0.845,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Brock Bowers",
+  "threshold": 25.0,
+  "prob": 0.845,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "DK Metcalf",
+  "threshold": 20.0,
+  "prob": 0.835,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Jadarian Price",
+  "threshold": 20.0,
+  "prob": 0.835,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Jalen Coker",
+  "threshold": 20.0,
+  "prob": 0.83,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Tucker Kraft",
+  "threshold": 15.0,
+  "prob": 0.83,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Dalton Kincaid",
+  "threshold": 15.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Khalil Shakir",
+  "threshold": 15.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Jordan Addison",
+  "threshold": 15.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRSHYDS-26NOV15CARNO",
+  "stat": "rush_yds",
+  "player": "Chuba Hubbard",
+  "threshold": 40.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRSHYDS-26NOV15MINGB",
+  "stat": "rush_yds",
+  "player": "Jordan Mason",
+  "threshold": 20.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Chase Brown",
+  "threshold": 20.0,
+  "prob": 0.825,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Chig Okonkwo",
+  "threshold": 15.0,
+  "prob": 0.815,
+  "volume": 30.89,
+  "spread": 0.03
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Justin Jefferson",
+  "threshold": 40.0,
+  "prob": 0.815,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Jameson Williams",
+  "threshold": 25.0,
+  "prob": 0.81,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Jaxon Smith-Njigba",
+  "threshold": 50.0,
+  "prob": 0.81,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "George Kittle",
+  "threshold": 30.0,
+  "prob": 0.81,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Tee Higgins",
+  "threshold": 40.0,
+  "prob": 0.81,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Germie Bernard",
+  "threshold": 20.0,
+  "prob": 0.81,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Devin Singletary",
+  "threshold": 10.0,
+  "prob": 0.805,
+  "volume": 565.71,
+  "spread": 0.01
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Jayden Daniels",
+  "threshold": 15.0,
+  "prob": 0.805,
+  "volume": 20.38,
+  "spread": 0.01
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRSHYDS-26NOV15BUFNYJ",
+  "stat": "rush_yds",
+  "player": "Josh Allen",
+  "threshold": 10.0,
+  "prob": 0.805,
+  "volume": 0.25,
+  "spread": 0.07
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Sam LaPorta",
+  "threshold": 20.0,
+  "prob": 0.805,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Tetairoa McMillan",
+  "threshold": 30.0,
+  "prob": 0.805,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Ashton Jeanty",
+  "threshold": 15.0,
+  "prob": 0.805,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Mike Washington Jr.",
+  "threshold": 10.0,
+  "prob": 0.805,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Jalen Coker",
+  "threshold": 25.0,
+  "prob": 0.8,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Brock Bowers",
+  "threshold": 30.0,
+  "prob": 0.8,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Rico Dowdle",
+  "threshold": 15.0,
+  "prob": 0.8,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Isaiah Likely",
+  "threshold": 25.0,
+  "prob": 0.795,
+  "volume": 0.0,
+  "spread": 0.03
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Rachaad White",
+  "threshold": 20.0,
+  "prob": 0.79,
+  "volume": 13.67,
+  "spread": 0.02
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Ashton Jeanty",
+  "threshold": 10.0,
+  "prob": 0.785,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Stefon Diggs",
+  "threshold": 20.0,
+  "prob": 0.78,
+  "volume": 3.67,
+  "spread": 0.02
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Antonio Williams",
+  "threshold": 20.0,
+  "prob": 0.78,
+  "volume": 0.0,
+  "spread": 0.04
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "DK Metcalf",
+  "threshold": 25.0,
+  "prob": 0.78,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Darnell Washington",
+  "threshold": 10.0,
+  "prob": 0.78,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRSHYDS-26NOV15SFDAL",
+  "stat": "rush_yds",
+  "player": "Kaelon Black",
+  "threshold": 15.0,
+  "prob": 0.78,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Chase Brown",
+  "threshold": 10.0,
+  "prob": 0.775,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Jaylen Warren",
+  "threshold": 10.0,
+  "prob": 0.775,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Jordan Addison",
+  "threshold": 20.0,
+  "prob": 0.77,
+  "volume": 90.31,
+  "spread": 0.08
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Tucker Kraft",
+  "threshold": 20.0,
+  "prob": 0.77,
+  "volume": 60.91,
+  "spread": 0.06
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Chris Olave",
+  "threshold": 40.0,
+  "prob": 0.77,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "T.J. Hockenson",
+  "threshold": 20.0,
+  "prob": 0.77,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "Christian McCaffrey",
+  "threshold": 15.0,
+  "prob": 0.77,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Malik Nabers",
+  "threshold": 40.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.01
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Jahmyr Gibbs",
+  "threshold": 15.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Amon-Ra St. Brown",
+  "threshold": 50.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Dalton Kincaid",
+  "threshold": 20.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Khalil Shakir",
+  "threshold": 20.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Germie Bernard",
+  "threshold": 25.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Jadarian Price",
+  "threshold": 25.0,
+  "prob": 0.765,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRECYDS-26NOV15NEDET",
+  "stat": "rec_yds",
+  "player": "Jameson Williams",
+  "threshold": 30.0,
+  "prob": 0.76,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "DJ Moore",
+  "threshold": 20.0,
+  "prob": 0.76,
+  "volume": 0.0,
+  "spread": 0.11
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Malachi Fields",
+  "threshold": 10.0,
+  "prob": 0.755,
+  "volume": 21.37,
+  "spread": 0.01
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "DJ Moore",
+  "threshold": 25.0,
+  "prob": 0.755,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRSHYDS-26NOV15MINGB",
+  "stat": "rush_yds",
+  "player": "Aaron Jones Sr.",
+  "threshold": 15.0,
+  "prob": 0.755,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Justin Jefferson",
+  "threshold": 50.0,
+  "prob": 0.75,
+  "volume": 94.69,
+  "spread": 0.08
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Austin Ekeler",
+  "threshold": 15.0,
+  "prob": 0.75,
+  "volume": 15.0,
+  "spread": 0.02
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRSHYDS-26NOV15SFDAL",
+  "stat": "rush_yds",
+  "player": "Christian McCaffrey",
+  "threshold": 40.0,
+  "prob": 0.75,
+  "volume": 4.98,
+  "spread": 0.06
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Tre Tucker",
+  "threshold": 10.0,
+  "prob": 0.75,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Ja'Marr Chase",
+  "threshold": 50.0,
+  "prob": 0.75,
+  "volume": 0.0,
+  "spread": 0.12
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRSHYDS-26NOV15MINGB",
+  "stat": "rush_yds",
+  "player": "Jordan Mason",
+  "threshold": 25.0,
+  "prob": 0.75,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Jaylen Warren",
+  "threshold": 40.0,
+  "prob": 0.745,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Jayden Daniels",
+  "threshold": 20.0,
+  "prob": 0.74,
+  "volume": 84.53,
+  "spread": 0.02
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Chig Okonkwo",
+  "threshold": 20.0,
+  "prob": 0.74,
+  "volume": 28.4,
+  "spread": 0.02
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "CeeDee Lamb",
+  "threshold": 60.0,
+  "prob": 0.74,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRSHYDS-26NOV15NEDET",
+  "stat": "rush_yds",
+  "player": "Jahmyr Gibbs",
+  "threshold": 60.0,
+  "prob": 0.74,
+  "volume": 0.0,
+  "spread": 0.11
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRSHYDS-26NOV15NEDET",
+  "stat": "rush_yds",
+  "player": "Drake Maye",
+  "threshold": 10.0,
+  "prob": 0.74,
+  "volume": 0.0,
+  "spread": 0.12
+ },
+ {
+  "game": "Kansas City vs Atlanta",
+  "event": "KXNFLRSHYDS-26NOV15KCATL",
+  "stat": "rush_yds",
+  "player": "Kenneth Walker III",
+  "threshold": 50.0,
+  "prob": 0.74,
+  "volume": 0.0,
+  "spread": 0.12
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Zach Charbonnet",
+  "threshold": 40.0,
+  "prob": 0.735,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Isaiah Likely",
+  "threshold": 30.0,
+  "prob": 0.73,
+  "volume": 0.0,
+  "spread": 0.02
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Tee Higgins",
+  "threshold": 50.0,
+  "prob": 0.73,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRSHYDS-26NOV15BUFNYJ",
+  "stat": "rush_yds",
+  "player": "Breece Hall",
+  "threshold": 30.0,
+  "prob": 0.73,
+  "volume": 0.0,
+  "spread": 0.12
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRSHYDS-26NOV15CARNO",
+  "stat": "rush_yds",
+  "player": "Chuba Hubbard",
+  "threshold": 50.0,
+  "prob": 0.73,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Rachaad White",
+  "threshold": 25.0,
+  "prob": 0.725,
+  "volume": 881.45,
+  "spread": 0.03
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Michael Mayer",
+  "threshold": 10.0,
+  "prob": 0.725,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "DK Metcalf",
+  "threshold": 30.0,
+  "prob": 0.725,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Antonio Williams",
+  "threshold": 25.0,
+  "prob": 0.72,
+  "volume": 0.3,
+  "spread": 0.04
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "CeeDee Lamb",
+  "threshold": 50.0,
+  "prob": 0.72,
+  "volume": 0.0,
+  "spread": 0.13
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRECYDS-26NOV15SFDAL",
+  "stat": "rec_yds",
+  "player": "George Kittle",
+  "threshold": 40.0,
+  "prob": 0.72,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRSHYDS-26NOV15BUFNYJ",
+  "stat": "rush_yds",
+  "player": "Josh Allen",
+  "threshold": 15.0,
+  "prob": 0.72,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRSHYDS-26NOV15MINGB",
+  "stat": "rush_yds",
+  "player": "Kaleb Johnson",
+  "threshold": 15.0,
+  "prob": 0.72,
+  "volume": 0.0,
+  "spread": 0.12
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Ashton Jeanty",
+  "threshold": 20.0,
+  "prob": 0.72,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRECYDS-26NOV12WASNYG",
+  "stat": "rec_yds",
+  "player": "Stefon Diggs",
+  "threshold": 25.0,
+  "prob": 0.715,
+  "volume": 0.0,
+  "spread": 0.03
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Christian Watson",
+  "threshold": 50.0,
+  "prob": 0.71,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "New England vs Detroit",
+  "event": "KXNFLRSHYDS-26NOV15NEDET",
+  "stat": "rush_yds",
+  "player": "Corey Kiner",
+  "threshold": 30.0,
+  "prob": 0.71,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRSHYDS-26NOV15SFDAL",
+  "stat": "rush_yds",
+  "player": "Javonte Williams",
+  "threshold": 40.0,
+  "prob": 0.71,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Washington vs New York G",
+  "event": "KXNFLRSHYDS-26NOV12WASNYG",
+  "stat": "rush_yds",
+  "player": "Devin Singletary",
+  "threshold": 15.0,
+  "prob": 0.705,
+  "volume": 145.0,
+  "spread": 0.01
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Khalil Shakir",
+  "threshold": 25.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Carolina vs New Orleans",
+  "event": "KXNFLRECYDS-26NOV15CARNO",
+  "stat": "rec_yds",
+  "player": "Tetairoa McMillan",
+  "threshold": 40.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Cooper Kupp",
+  "threshold": 10.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.07
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Darnell Washington",
+  "threshold": 15.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRSHYDS-26NOV15MINGB",
+  "stat": "rush_yds",
+  "player": "Kaleb Johnson",
+  "threshold": 20.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "San Francisco vs Dallas",
+  "event": "KXNFLRSHYDS-26NOV15SFDAL",
+  "stat": "rush_yds",
+  "player": "Kaelon Black",
+  "threshold": 20.0,
+  "prob": 0.705,
+  "volume": 0.0,
+  "spread": 0.09
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "Dalton Kincaid",
+  "threshold": 25.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Buffalo vs New York J",
+  "event": "KXNFLRECYDS-26NOV15BUFNYJ",
+  "stat": "rec_yds",
+  "player": "DJ Moore",
+  "threshold": 30.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Minnesota vs Green Bay",
+  "event": "KXNFLRECYDS-26NOV15MINGB",
+  "stat": "rec_yds",
+  "player": "Christian Watson",
+  "threshold": 40.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.13
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRECYDS-26NOV15SEALV",
+  "stat": "rec_yds",
+  "player": "Brock Bowers",
+  "threshold": 40.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.08
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRECYDS-26NOV15PITCIN",
+  "stat": "rec_yds",
+  "player": "Germie Bernard",
+  "threshold": 30.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Seattle vs Las Vegas",
+  "event": "KXNFLRSHYDS-26NOV15SEALV",
+  "stat": "rush_yds",
+  "player": "Mike Washington Jr.",
+  "threshold": 15.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.1
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Samaje Perine",
+  "threshold": 10.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.11
+ },
+ {
+  "game": "Pittsburgh vs Cincinnati",
+  "event": "KXNFLRSHYDS-26NOV15PITCIN",
+  "stat": "rush_yds",
+  "player": "Rico Dowdle",
+  "threshold": 20.0,
+  "prob": 0.7,
+  "volume": 0.0,
+  "spread": 0.08
+ }
+]
