@@ -23,6 +23,15 @@ WMO_RAIN = {51, 53, 55, 61, 63, 65, 66, 67, 80, 81, 82, 95, 96, 99}
 
 
 def kickoff_weather(game: dict) -> dict:
+    """Never raises: a forecast failure (e.g. Open-Meteo's daily limit) returns a summary instead."""
+    try:
+        return _kickoff_weather(game)
+    except Exception as e:  # noqa: BLE001 - weather must never break a run
+        return {"game": game["short"], "indoor": game.get("indoor"),
+                "summary": f"Forecast unavailable ({str(e)[:60]}); check a weather app or news"}
+
+
+def _kickoff_weather(game: dict) -> dict:
     if game.get("indoor"):
         return {"game": game["short"], "indoor": True, "summary": "Indoors/roof - weather not a factor"}
     if game.get("neutral") or game["home"] not in STADIUMS:
