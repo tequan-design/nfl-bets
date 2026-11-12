@@ -104,8 +104,13 @@
    "at": "2026-11-11T04:10:01Z",
    "what": "props 35e3bdff558b5d1506251e814986f164 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
    "cost": "4"
+  },
+  {
+   "at": "2026-11-12T22:48:51Z",
+   "what": "game_lines",
+   "cost": "3"
   }
  ],
- "remaining": 426,
- "used": 74
+ "remaining": 423,
+ "used": 77
 }
