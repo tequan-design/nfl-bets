@@ -62,7 +62,8 @@ def _send_webhook(url: str, body: str) -> str:
         with urllib.request.urlopen(req, timeout=60) as r:
             return r.read().decode(errors="replace").strip()[:200]
     except urllib.error.HTTPError as e:
-        raise HttpError(e.code, e.read().decode(errors="replace"), url)
+        # Never put the script URL in logs: it is a private capability link.
+        raise HttpError(e.code, e.read().decode(errors="replace")[:80], "<ALERT_WEBHOOK_URL>")
 
 
 def send(body: str, urgent: bool = False) -> dict:
