@@ -53,3 +53,6 @@ season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,es
 2026,10,2026-11-13,prizepicks,Flex 6 (v2),flex,James Cook,BUF,BUF@NYJ,rush_yds,91.5,over,0.555,2,25,0,,,standard line
 2026,10,2026-11-13,prizepicks,Flex 6 (v2),flex,Tee Higgins,CIN,PIT@CIN,rec_yds,75.5,over,0.55,2,25,0,,,standard line
 2026,10,2026-11-13,prizepicks,Flex 6 (v2),flex,Christian McCaffrey,SF,SF@DAL,rush_yds,62.5,over,0.545,2,25,0,,,standard line
+2026,10,2026-11-12 halftime,kalshi,TNF live 2H,kalshi,Stefon Diggs,WSH,WSH@NYG,rec_yds,39.5,over,0.85,5,1.33,1,,,"live halftime: 34 yds on 5 tgts, Kalshi 74.5c"
+2026,10,2026-11-12 halftime,kalshi,TNF live 2H,kalshi,Isaiah Likely,NYG,WSH@NYG,rec_yds,49.5,over,0.82,5,1.38,1,,,"live halftime: 39 yds on 7 tgts, Kalshi 72.5c"
+2026,10,2026-11-12 halftime,kalshi,TNF live 2H,kalshi,Isaiah Likely,NYG,WSH@NYG,rec_yds,59.5,over,0.6,3,1.87,1,,,"live halftime: needs 21 in 2H, Kalshi 53.5c"
