@@ -48,7 +48,7 @@
     ]
   },
   "strategy": {
-    "conservative_core": "Default to STANDARD PrizePicks/Underdog lines (full payout). Target multipliers: 2-pick Power ~3x, 3-pick Power ~5-6x, 5-pick Flex ~10x top prize, 6-pick Flex ~25x. Pick standard-line legs where form + matchup + market point the same way (est 55-67%). Use at most ONE goblin/discounted leg per entry as an anchor. Never build an entry entirely from goblins: the user tested an all-goblin 3-pick at 1.64x and a goblin 5-pick flex at 1.98x and rejected them.",
+    "conservative_core": "Mix line levels inside each entry, chosen per leg by matchup: great matchup -> standard or demon/higher line; neutral -> standard; tight matchup -> goblin/lower line. Targets: 2-pick Power ~2.5-3x, 3-pick ~4-6x, 5-pick Flex ~8-10x top prize. Never all goblins (user rejected 1.64x and 1.98x entries).",
     "sprinkle": "4-6 pick Flex entries mixing the safest legs with 1-2 favorable-matchup legs that carry a big multiplier.",
     "game_bets": "Skip straight game bets. Consider a game parlay only if it pays 3x or more.",
     "promos": "Use ongoing (non-introductory) promos and discounted lines; ignore new-user-only offers.",

@@ -33,3 +33,5 @@ Update every Wednesday after grading. Newest lessons first under each heading. K
   5-flex ~10x). Goblins only as a single anchor leg. Week 10 Sunday entries were rebuilt Fri 11/13 (v2).
 - At standard lines books/Kalshi sit near 50%; pick legs where form + defense rank add the edge
   (e.g. RBs vs bottom-8 run defenses, TE with a 7/7 floor, QB vs bottom-5 pass defense in a dome).
+- Refinement (user, Fri 11/13): don't make an entry all goblins OR all standard. Pick the line per leg:
+  good matchup = standard or higher (demon), tight matchup = lower (goblin). Mixed entries keep a real multiplier.

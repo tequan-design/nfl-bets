@@ -74,9 +74,16 @@ line checks (3 each). If credits are under 60, skip props and lean on Kalshi lad
    are hitting under 55%, your estimates are too high, so say so and tighten.
 
 ## Entry building (each Wednesday report)
-- **Use STANDARD lines by default.** The user rejected all-goblin entries (3-pick paid 1.64x, 5-pick flex 1.98x).
-  Targets: 2-pick Power ~3x, 3-pick Power ~5-6x, 5-pick Flex ~10x top prize, 6-pick Flex ~25x. At most ONE
-  goblin/discounted leg per entry, as an anchor. Never list a "take at or below" goblin threshold as the main line.
+- **Choose the line level PER LEG, then mix them in one entry.** The user rejected all-goblin entries (3-pick paid
+  1.64x, 5-pick flex 1.98x) but also does not want every leg on a standard line. Match the line to the matchup:
+  - **Great matchup** (bottom-8 defense vs that stat, favorable script, floor well above the line, usage rising):
+    standard line, or a **demon/higher line** when the player's floor clears it in most games.
+  - **Neutral matchup:** standard line.
+  - **Tight matchup** (top-8 defense, bad script, new/backup QB, injury limits): **goblin/lower line** so the
+    leg stays safe.
+  Report each leg's line level (Goblin / Standard / Demon) and why, and show the entry's approximate multiplier.
+  Targets for the mixed entry: 2-pick Power ~2.5-3x, 3-pick Power ~4-6x, 5-pick Flex ~8-10x top prize. If the
+  mix drops below those, swap a goblin leg for a standard one rather than adding more goblins.
 - **Power (2-3 picks, all must hit), $5-$10:** standard-line legs where market, form and matchup agree (est. 55-67%
   each). Show combined hit chance (product of legs), the approximate multiplier, and expected value (chance x payout).
 - **Flex (4-6 picks), $5-$10:** safest legs + 1-2 value legs; show "chance to cash" for the flex rule.
