@@ -26,3 +26,10 @@ Update every Wednesday after grading. Newest lessons first under each heading. K
 ## Process notes
 - Odds API free plan = 500 credits/month. Pull props once Wednesday (all games, 4 markets) and refresh
   Saturday (2 markets). Kalshi ladders and Billy Bets props are free fallbacks.
+
+## Payout preference (user feedback, Week 10)
+- User REJECTED the all-goblin Week 10 entries: 3-pick Core A paid only 1.64x, 5-pick Flex only 1.98x.
+  They want conservative-ish but real multipliers: build on standard lines (2-pick ~3x, 3-pick ~5-6x,
+  5-flex ~10x). Goblins only as a single anchor leg. Week 10 Sunday entries were rebuilt Fri 11/13 (v2).
+- At standard lines books/Kalshi sit near 50%; pick legs where form + defense rank add the edge
+  (e.g. RBs vs bottom-8 run defenses, TE with a 7/7 floor, QB vs bottom-5 pass defense in a dome).

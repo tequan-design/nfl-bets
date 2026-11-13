@@ -54,8 +54,8 @@ line checks (3 each). If credits are under 60, skip props and lean on Kalshi lad
 
 ## How to pick (the method)
 1. **Price is truth, then context.** Start from market-implied probabilities: de-vigged sportsbook lines
-   (`props`), Kalshi ladders, Polymarket/Kalshi game prices, Billy Bets. A DFS leg is only "conservative"
-   if the market implies **62%+** for it at the line the user will actually play.
+   (`props`), Kalshi ladders, Polymarket/Kalshi game prices, Billy Bets. At standard DFS lines the market
+   is usually ~50%; the edge comes when form (season + last-6 hit rate, floor) and matchup (defense rank) also lean the same way.
 2. **Find the gap.** Best legs are where the DFS line is softer than the books (line_gap) or where a
    goblin/discounted line sits well under the book median, or a Kalshi ladder rung at that threshold is 70%+.
 3. **Confirm with form and matchup.** `form` (recent hit rate over the line, floor = low game), `defense`
@@ -74,8 +74,11 @@ line checks (3 each). If credits are under 60, skip props and lean on Kalshi lad
    are hitting under 55%, your estimates are too high, so say so and tighten.
 
 ## Entry building (each Wednesday report)
-- **Core (2-3 picks, all must hit), $10:** 2-3 entries from the safest legs (est. 62%+ each). Show the
-  combined hit chance (product of legs) and the payout.
+- **Use STANDARD lines by default.** The user rejected all-goblin entries (3-pick paid 1.64x, 5-pick flex 1.98x).
+  Targets: 2-pick Power ~3x, 3-pick Power ~5-6x, 5-pick Flex ~10x top prize, 6-pick Flex ~25x. At most ONE
+  goblin/discounted leg per entry, as an anchor. Never list a "take at or below" goblin threshold as the main line.
+- **Power (2-3 picks, all must hit), $5-$10:** standard-line legs where market, form and matchup agree (est. 55-67%
+  each). Show combined hit chance (product of legs), the approximate multiplier, and expected value (chance x payout).
 - **Flex (4-6 picks), $5-$10:** safest legs + 1-2 value legs; show "chance to cash" for the flex rule.
 - **Longshot, $1-$5:** one 5x-10x+ build from favorable-matchup legs.
 - **Kalshi/Polymarket:** at most 2 plays where the market price is clearly mispriced vs. sportsbooks or

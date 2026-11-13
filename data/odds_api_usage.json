@@ -109,8 +109,83 @@
    "at": "2026-11-12T22:48:51Z",
    "what": "game_lines",
    "cost": "3"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "events",
+   "cost": "0"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props 74d39e19225caf211ad2c8eb4110179f player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props b8c10fdf1e0ac4e13deee7f7c0af0b0b player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props 3c71d515b726f1096aabb435badb83fd player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props 1057d50949844ddf483da9c8c20354be player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props e5aa20e1364dd639f042af1c2281bbe2 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:23Z",
+   "what": "props be0e03cc42fbc9b6962467b22c7bf9dd player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 5d8d85473b87f772a979ecf294acab94 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props b5700b4d938fd94429f60d4622cc9c0a player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 28800df7e768ecec14f116454d560f9b player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 6c932a965110f3f89ec4a5f1a6ac256e player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 6079a5cbabf99b265a17edfc92a1da60 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 7627192fd89b05120ab6c712aa23fd81 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 48e497c230e6c9afcb3b600091d28e17 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-13T02:28:24Z",
+   "what": "props 35e3bdff558b5d1506251e814986f164 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
   }
  ],
- "remaining": 423,
- "used": 77
+ "remaining": 367,
+ "used": 133
 }
