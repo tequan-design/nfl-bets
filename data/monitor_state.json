@@ -48,6 +48,20 @@
   "injury|Garrett Nussmeier|Out",
   "injury|Max Brosmer|Out",
   "injury|Jordan Addison|Out",
-  "injury|Zach Wilson|Out"
+  "injury|Zach Wilson|Out",
+  "kalshi_swing|Carolina vs New Orleans|0.295",
+  "kalshi_swing|Carolina vs New Orleans|0.705",
+  "kalshi_swing|Houston vs Cleveland|0.195",
+  "kalshi_swing|Houston vs Cleveland|0.805",
+  "kalshi_swing|Kansas City vs Atlanta|0.125",
+  "kalshi_swing|Kansas City vs Atlanta|0.875",
+  "kalshi_swing|Miami vs Indianapolis|0.915",
+  "kalshi_swing|Miami vs Indianapolis|0.085",
+  "kalshi_swing|Minnesota vs Green Bay|0.065",
+  "kalshi_swing|Minnesota vs Green Bay|0.935",
+  "kalshi_swing|Tennessee vs Dallas|0.675",
+  "kalshi_swing|Tennessee vs Dallas|0.33",
+  "injury|Joey Aguilar|Out",
+  "injury|Emanuel Wilson|Out"
  ]
 }
