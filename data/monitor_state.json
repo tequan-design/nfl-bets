@@ -32,6 +32,22 @@
   "injury|Will Mallory|Out",
   "injury|Kenneth Walker III|Out",
   "injury|TreVeyon Henderson|Injured Reserve",
-  "injury|Travis Etienne Jr.|Questionable"
+  "injury|Travis Etienne Jr.|Questionable",
+  "spread_move|New England Patriots @ Detroit Lions|-28.5",
+  "total_move|New England Patriots @ Detroit Lions|44.5",
+  "spread_move|Carolina Panthers @ New Orleans Saints|1.0",
+  "kalshi_swing|New England vs Detroit|0.995",
+  "kalshi_swing|New England vs Detroit|0.01",
+  "kalshi_swing|Tampa Bay vs Detroit|0.725",
+  "kalshi_swing|Tampa Bay vs Detroit|0.285",
+  "injury|Jack Strand|Out",
+  "injury|Andy Dalton|Out",
+  "injury|Justin Jefferson|Out",
+  "injury|Dillon Gabriel|Out",
+  "injury|Taylen Green|Out",
+  "injury|Garrett Nussmeier|Out",
+  "injury|Max Brosmer|Out",
+  "injury|Jordan Addison|Out",
+  "injury|Zach Wilson|Out"
  ]
 }
