@@ -62,6 +62,16 @@
   "kalshi_swing|Tennessee vs Dallas|0.675",
   "kalshi_swing|Tennessee vs Dallas|0.33",
   "injury|Joey Aguilar|Out",
-  "injury|Emanuel Wilson|Out"
+  "injury|Emanuel Wilson|Out",
+  "kalshi_swing|Los Angeles R vs Arizona|0.01",
+  "kalshi_swing|Los Angeles R vs Arizona|0.995",
+  "kalshi_swing|Seattle vs Las Vegas|0.015",
+  "kalshi_swing|Seattle vs Las Vegas|0.985",
+  "kalshi_swing|San Francisco vs Dallas|0.055",
+  "kalshi_swing|San Francisco vs Dallas|0.945",
+  "kalshi_swing|Tennessee vs Dallas|0.79",
+  "kalshi_swing|Tennessee vs Dallas|0.215",
+  "kalshi_swing|New York J vs Los Angeles C|0.62",
+  "kalshi_swing|New York J vs Los Angeles C|0.385"
  ]
 }
