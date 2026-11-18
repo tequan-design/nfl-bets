@@ -87,7 +87,7 @@ def kalshi_prop_ladders(series_list: list[str] | None = None, min_prob: float = 
 
 def polymarket_games(start_iso: str, end_iso: str) -> list[dict]:
     """Moneyline prices and dollar volume for NFL games in a date window."""
-    d = get_json(f"{POLY}/events", {"tag_slug": "nfl", "closed": "false", "limit": 100,
+    d = get_json(f"{POLY}/events", {"tag_slug": "nfl", "closed": "false", "limit": 50,
                                     "end_date_min": start_iso, "end_date_max": end_iso})
     rows = []
     for e in d:

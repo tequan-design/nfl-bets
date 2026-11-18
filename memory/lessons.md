@@ -20,6 +20,19 @@ Update every Wednesday after grading. Newest lessons first under each heading. K
 - Game-level: favorites in parlays split 1/2 (Texans won, Patriots lost).
 - Sample is tiny; treat these as soft priors, not rules.
 
+## Week 10 results (graded Wed 11/18)
+- TNF entry (Diggs o2.5 rec + Fields o14.5 rec yds) HIT; all 3 live 2H Kalshi plays HIT (Diggs 40+, Likely 50+/60+).
+  Live halftime plays on players already near the line with heavy target share are a strength. Keep offering them.
+- Kalshi favorites parlay (5 legs, 64-84% each) HIT. 70%+ legs overall: 7/8. Prediction-market favorites vs rookie/backup QBs worked.
+- Sunday v2 standard-line legs: 1/6 (only Cook o91.5 hit, 157). The goblin entries they replaced would ALSO have lost
+  (Core A: Maye threw 48 yds in a 35-10 loss, Warren 15, Olave 30). It was a game-script week, not just a line-level problem.
+- **Game script is the biggest risk.** Warren (PIT, +3.5 dog) got 7 carries in a 38-18 loss. Avoid RB rushing overs on underdogs;
+  prefer RB overs on favorites (Cook, BUF -8, hit easily).
+- **Tight matchup = goblin, confirmed.** Bowers o59.5 vs SEA (#1 pass D) with a rookie QB: 18 yds. Under the mixed-line rule he'd be a goblin or skipped.
+- **Dual-threat RBs: look at receiving/rush+rec too.** McCaffrey: 62 rush (missed by 0.5) but 161 rec yds. When unsure of the split,
+  use rush+rec yds or the receiving line.
+- Near misses: McCaffrey 62 vs 62.5, Higgins 66 vs 75.5. Half-point lines matter: when two apps differ, take the lower one.
+
 ## Thursday Night Football
 - Treat TNF results as noisy. Prior: halve stakes, favor floor props, at most one TNF leg per Power entry.
 

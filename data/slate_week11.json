@@ -1,0 +1,340 @@
+[
+ {
+  "game": "IND @ HOU",
+  "kick": "Thu 11/19 8:15PM ET",
+  "tnf": true,
+  "venue": "Reliant Stadium",
+  "indoor": true,
+  "records": "IND 3-7 / HOU 3-6",
+  "home_spread": -12.5,
+  "total": 44.0,
+  "home_win_prob_books": 0.845,
+  "kalshi": {
+   "Houston": {
+    "p": 0.845,
+    "vol": 176223.02,
+    "vol24h": 60541.8
+   },
+   "Indianapolis": {
+    "p": 0.145,
+    "vol": 763140.25,
+    "vol24h": 339756.99
+   }
+  },
+  "polymarket": null,
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/19 - 8:15 PM EST"
+ },
+ {
+  "game": "MIA @ BUF",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Highmark Stadium",
+  "indoor": false,
+  "records": "MIA 1-8 / BUF 8-1",
+  "home_spread": -16.5,
+  "total": 45.5,
+  "home_win_prob_books": 0.904,
+  "kalshi": {
+   "Buffalo": {
+    "p": 0.915,
+    "vol": 99237.52,
+    "vol24h": 37462.02
+   },
+   "Miami": {
+    "p": 0.085,
+    "vol": 153681.23,
+    "vol24h": 33481.13
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "NO @ CHI",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Soldier Field",
+  "indoor": false,
+  "records": "NO 3-6 / CHI 7-2",
+  "home_spread": -11.5,
+  "total": 48.5,
+  "home_win_prob_books": 0.827,
+  "kalshi": {
+   "Chicago": {
+    "p": 0.845,
+    "vol": 145271.08,
+    "vol24h": 8902.38
+   },
+   "New Orleans": {
+    "p": 0.155,
+    "vol": 46606.38,
+    "vol24h": 10167.66
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "TEN @ DAL",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "AT&T Stadium",
+  "indoor": true,
+  "records": "TEN 1-8 / DAL 4-6",
+  "home_spread": -8.0,
+  "total": 55.0,
+  "home_win_prob_books": 0.776,
+  "kalshi": {
+   "Dallas": {
+    "p": 0.785,
+    "vol": 24931.56,
+    "vol24h": 6227.2
+   },
+   "Tennessee": {
+    "p": 0.215,
+    "vol": 39268.83,
+    "vol24h": 9352.85
+   }
+  },
+  "polymarket": null,
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "TB @ DET",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Ford Field",
+  "indoor": true,
+  "records": "TB 3-6 / DET 7-2",
+  "home_spread": -7.0,
+  "total": 44.0,
+  "home_win_prob_books": 0.742,
+  "kalshi": {
+   "Detroit": {
+    "p": 0.755,
+    "vol": 324941.34,
+    "vol24h": 271262.59
+   },
+   "Tampa Bay": {
+    "p": 0.255,
+    "vol": 56349.09,
+    "vol24h": 20465.08
+   }
+  },
+  "polymarket": null,
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "ARI @ KC",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Arrowhead Stadium",
+  "indoor": false,
+  "records": "ARI 3-7 / KC 7-2",
+  "home_spread": -16.0,
+  "total": 41.5,
+  "home_win_prob_books": 0.901,
+  "kalshi": {
+   "Kansas City": {
+    "p": 0.905,
+    "vol": 64947.65,
+    "vol24h": 16890.74
+   },
+   "Arizona": {
+    "p": 0.085,
+    "vol": 93870.01,
+    "vol24h": 32910.21
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "PIT @ PHI",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Lincoln Financial Field",
+  "indoor": false,
+  "records": "PIT 6-3 / PHI 2-7",
+  "home_spread": 4.5,
+  "total": 38.5,
+  "home_win_prob_books": 0.342,
+  "kalshi": {
+   "Philadelphia": {
+    "p": 0.335,
+    "vol": 19972.91,
+    "vol24h": 4648.76
+   },
+   "Pittsburgh": {
+    "p": 0.665,
+    "vol": 55825.21,
+    "vol24h": 15745.46
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "BAL @ CAR",
+  "kick": "Sun 11/22 1:00PM ET",
+  "tnf": false,
+  "venue": "Bank of America Stadium",
+  "indoor": false,
+  "records": "BAL 4-6 / CAR 4-5",
+  "home_spread": -2.5,
+  "total": 44.0,
+  "home_win_prob_books": 0.562,
+  "kalshi": {
+   "Carolina": {
+    "p": 0.565,
+    "vol": 51198.44,
+    "vol24h": 11545.6
+   },
+   "Baltimore": {
+    "p": 0.425,
+    "vol": 20690.36,
+    "vol24h": 7995.32
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/22 - 1:00 PM EST"
+ },
+ {
+  "game": "NYJ @ LAC",
+  "kick": "Sun 11/22 4:05PM ET",
+  "tnf": false,
+  "venue": "SoFi Stadium",
+  "indoor": false,
+  "records": "NYJ 2-8 / LAC 1-8",
+  "home_spread": -3.5,
+  "total": 41.0,
+  "home_win_prob_books": 0.621,
+  "kalshi": {
+   "Los Angeles C": {
+    "p": 0.625,
+    "vol": 22684.95,
+    "vol24h": 7421.81
+   },
+   "New York J": {
+    "p": 0.375,
+    "vol": 37838.69,
+    "vol24h": 14823.88
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/22 - 4:05 PM EST"
+ },
+ {
+  "game": "LV @ DEN",
+  "kick": "Sun 11/22 4:25PM ET",
+  "tnf": false,
+  "venue": "Empower Field at Mile High",
+  "indoor": false,
+  "records": "LV 4-6 / DEN 7-2",
+  "home_spread": -10.0,
+  "total": 40.5,
+  "home_win_prob_books": 0.816,
+  "kalshi": {
+   "Denver": {
+    "p": 0.825,
+    "vol": 125474.06,
+    "vol24h": 9769.35
+   },
+   "Las Vegas": {
+    "p": 0.175,
+    "vol": 98373.05,
+    "vol24h": 27108.91
+   }
+  },
+  "polymarket": null,
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/22 - 4:25 PM EST"
+ },
+ {
+  "game": "JAX @ NYG",
+  "kick": "Sun 11/22 4:25PM ET",
+  "tnf": false,
+  "venue": "MetLife Stadium",
+  "indoor": false,
+  "records": "JAX 7-2 / NYG 5-3-1",
+  "home_spread": 6.0,
+  "total": 46.5,
+  "home_win_prob_books": 0.299,
+  "kalshi": {
+   "New York G": {
+    "p": 0.295,
+    "vol": 48146.83,
+    "vol24h": 16833.26
+   },
+   "Jacksonville": {
+    "p": 0.705,
+    "vol": 39963.07,
+    "vol24h": 7709.07
+   }
+  },
+  "polymarket": null,
+  "weather": "61F, wind 5 mph (gusts 11), precip 29%",
+  "state": "11/22 - 4:25 PM EST"
+ },
+ {
+  "game": "MIN VS SF",
+  "kick": "Sun 11/22 8:20PM ET",
+  "tnf": false,
+  "venue": "Estadio Banorte",
+  "indoor": false,
+  "records": "MIN 7-2 / SF 8-1",
+  "home_spread": -3.0,
+  "total": 46.0,
+  "home_win_prob_books": 0.603,
+  "kalshi": {
+   "San Francisco": {
+    "p": 0.595,
+    "vol": 245725.59,
+    "vol24h": 78159.06
+   },
+   "Minnesota": {
+    "p": 0.405,
+    "vol": 727003.84,
+    "vol24h": 158366.11
+   }
+  },
+  "polymarket": null,
+  "weather": "Neutral site (Estadio Banorte, Mexico City) - check weather manually",
+  "state": "11/22 - 8:20 PM EST"
+ },
+ {
+  "game": "CIN @ WSH",
+  "kick": "Mon 11/23 8:15PM ET",
+  "tnf": false,
+  "venue": "Northwest Stadium",
+  "indoor": false,
+  "records": "CIN 7-2 / WSH 3-5-1",
+  "home_spread": 6.5,
+  "total": 54.5,
+  "home_win_prob_books": 0.284,
+  "kalshi": {
+   "Washington": {
+    "p": 0.275,
+    "vol": 21301.08,
+    "vol24h": 3424.57
+   },
+   "Cincinnati": {
+    "p": 0.725,
+    "vol": 39058.68,
+    "vol24h": 9753.74
+   }
+  },
+  "polymarket": null,
+  "weather": "48F, wind 12 mph (gusts 27), precip 5% -> WIND 12 mph (gusts 27)",
+  "state": "11/23 - 8:15 PM EST"
+ }
+]
