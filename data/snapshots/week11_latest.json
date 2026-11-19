@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T22:49:03Z",
+ "at": "2026-11-19T23:48:56Z",
  "week": 11,
  "games": [
   {
@@ -261,22 +261,6 @@
   },
   {
    "team": "ARI",
-   "player": "Walter Nolen III",
-   "pos": "DT",
-   "status": "Questionable",
-   "detail": "Nolen (illness) didn't participate in Wednesday's practice, Zach Gershman of the Cardinals' official site reports.",
-   "date": "2026-11-19T01:42Z"
-  },
-  {
-   "team": "ARI",
-   "player": "Max Melton",
-   "pos": "CB",
-   "status": "Questionable",
-   "detail": "questionable",
-   "date": "2026-11-18T23:45Z"
-  },
-  {
-   "team": "ARI",
    "player": "Roy Lopez",
    "pos": "DT",
    "status": "Questionable",
@@ -314,14 +298,6 @@
    "status": "Injured Reserve",
    "detail": "Wingard (wrist) was placed on injured reserve by the Cardinals on Tuesday.",
    "date": "2026-11-18T01:19Z"
-  },
-  {
-   "team": "ARI",
-   "player": "Jayden Williams",
-   "pos": "OT",
-   "status": "Questionable",
-   "detail": "questionable",
-   "date": "2026-11-17T12:19Z"
   },
   {
    "team": "ARI",
@@ -389,6 +365,14 @@
   },
   {
    "team": "BUF",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "status": "Questionable",
+   "detail": "Davis (hamstring) remained limited in Thursday's practice.",
+   "date": "2026-11-19T23:31Z"
+  },
+  {
+   "team": "BUF",
    "player": "T.J. Sanders",
    "pos": "DT",
    "status": "Questionable",
@@ -450,14 +434,6 @@
    "status": "Questionable",
    "detail": "Hamlin (toe) was estimated to be a limited participant in Wednesday's walkthrough.",
    "date": "2026-11-19T00:13Z"
-  },
-  {
-   "team": "BUF",
-   "player": "Ray Davis",
-   "pos": "RB",
-   "status": "Questionable",
-   "detail": "Davis was a limited participant in Wednesday's practice due to a hamstring injury.",
-   "date": "2026-11-18T22:42Z"
   },
   {
    "team": "BUF",
@@ -1152,8 +1128,8 @@
    "player": "Brock Bowers",
    "pos": "TE",
    "status": "Questionable",
-   "detail": "Bowers (ankle) was on the field for the start of Thursday's practice, Ryan McFadden of ESPN.com reports.",
-   "date": "2026-11-19T19:18Z"
+   "detail": "Bowers (ankle/quadriceps) was listed as a limited participant in Thursday's practice, Ryan McFadden of ESPN.com reports.",
+   "date": "2026-11-19T22:38Z"
   },
   {
    "team": "LV",
@@ -1181,11 +1157,19 @@
   },
   {
    "team": "LAC",
+   "player": "Charlie Kolar",
+   "pos": "TE",
+   "status": "Questionable",
+   "detail": "Kolar (concussion) remained sidelined for Thursday's practice.",
+   "date": "2026-11-19T23:20Z"
+  },
+  {
+   "team": "LAC",
    "player": "Ladd McConkey",
    "pos": "WR",
    "status": "Questionable",
-   "detail": "McConkey (back) was spotted at Thursday's practice in a non-contact jersey, Noah Furtado of The Athletic reports.",
-   "date": "2026-11-19T21:41Z"
+   "detail": "McConkey (back) was a limited participant in Thursday's practice.",
+   "date": "2026-11-19T23:15Z"
   },
   {
    "team": "LAC",
@@ -1194,14 +1178,6 @@
    "status": "Questionable",
    "detail": "Henley (knee) didn't participate in the Chargers' practice Wednesday.",
    "date": "2026-11-19T01:54Z"
-  },
-  {
-   "team": "LAC",
-   "player": "Charlie Kolar",
-   "pos": "TE",
-   "status": "Questionable",
-   "detail": "Kolar (concussion) did not participate at practice Wednesday.",
-   "date": "2026-11-19T00:25Z"
   },
   {
    "team": "LAC",
@@ -1637,19 +1613,27 @@
   },
   {
    "team": "NYJ",
+   "player": "Geno Smith",
+   "pos": "QB",
+   "status": "Questionable",
+   "detail": "Smith (ankle) was a limited participant in Thursday's practice.",
+   "date": "2026-11-19T22:48Z"
+  },
+  {
+   "team": "NYJ",
+   "player": "Isaiah Williams",
+   "pos": "WR",
+   "status": "Questionable",
+   "detail": "Williams (ribs) was a non-participant in Thursday's practice.",
+   "date": "2026-11-19T22:43Z"
+  },
+  {
+   "team": "NYJ",
    "player": "Omar Cooper Jr.",
    "pos": "WR",
    "status": "Questionable",
    "detail": "Cooper didn't practice Thursday due to ankle and hip injuries.",
    "date": "2026-11-19T22:37Z"
-  },
-  {
-   "team": "NYJ",
-   "player": "Geno Smith",
-   "pos": "QB",
-   "status": "Questionable",
-   "detail": "Smith (ankle), who was a limited participant in Wednesday's walkthrough practice, said afterward that he intends to play in Sunday's game against the Chargers, Rich Cimini of ESPN.com reports.",
-   "date": "2026-11-18T22:52Z"
   },
   {
    "team": "NYJ",
@@ -1666,14 +1650,6 @@
    "status": "Injured Reserve",
    "detail": "The Jets designated Onyemata (groin) to return from the injured reserve list Wednesday, Eric Allen of the Jets' official site reports.",
    "date": "2026-11-18T19:38Z"
-  },
-  {
-   "team": "NYJ",
-   "player": "Isaiah Williams",
-   "pos": "WR",
-   "status": "Questionable",
-   "detail": "Jets head coach Aaron Glenn said that Williams won't practice Wednesday due to a rib injury, Eric Allen of the Jets' official site reports.",
-   "date": "2026-11-18T17:07Z"
   },
   {
    "team": "NYJ",
@@ -1701,11 +1677,27 @@
   },
   {
    "team": "PHI",
+   "player": "Smael Mondon Jr.",
+   "pos": "LB",
+   "status": "Questionable",
+   "detail": "questionable",
+   "date": "2026-11-19T23:31Z"
+  },
+  {
+   "team": "PHI",
+   "player": "Will Shipley",
+   "pos": "RB",
+   "status": "Injured Reserve",
+   "detail": "Shipley (foot) remained limited in practice Thursday.",
+   "date": "2026-11-19T22:51Z"
+  },
+  {
+   "team": "PHI",
    "player": "Dontayvion Wicks",
    "pos": "WR",
    "status": "Questionable",
-   "detail": "Wicks (ankle) is participating in practice Thursday, Andrew DiCecco of InsideTheBirds.com reports.",
-   "date": "2026-11-19T19:45Z"
+   "detail": "Wicks (ankle) practiced in a limited capacity Thursday.",
+   "date": "2026-11-19T22:46Z"
   },
   {
    "team": "PHI",
@@ -1722,14 +1714,6 @@
    "status": "Questionable",
    "detail": "Baun (back) didn't practice Wednesday.",
    "date": "2026-11-19T01:34Z"
-  },
-  {
-   "team": "PHI",
-   "player": "Will Shipley",
-   "pos": "RB",
-   "status": "Injured Reserve",
-   "detail": "Shipley (foot) was a limited practice participant Wednesday.",
-   "date": "2026-11-18T23:15Z"
   },
   {
    "team": "PHI",
@@ -1805,11 +1789,19 @@
   },
   {
    "team": "SF",
+   "player": "Jordan James",
+   "pos": "RB",
+   "status": "Questionable",
+   "detail": "questionable",
+   "date": "2026-11-19T23:35Z"
+  },
+  {
+   "team": "SF",
    "player": "Mike Evans",
    "pos": "WR",
    "status": "Questionable",
-   "detail": "Evans (Achilles) is suited up for Thursday's practice, Cam Inman of The San Jose Mercury News reports.",
-   "date": "2026-11-19T20:13Z"
+   "detail": "Evans (Achilles) officially was limited at Thursday's practice, Nick Wagoner of ESPN reports.",
+   "date": "2026-11-19T23:18Z"
   },
   {
    "team": "SF",
@@ -1845,14 +1837,6 @@
   },
   {
    "team": "SF",
-   "player": "Siran Neal",
-   "pos": "S",
-   "status": "Questionable",
-   "detail": "questionable",
-   "date": "2026-11-18T23:27Z"
-  },
-  {
-   "team": "SF",
    "player": "Khalid Kareem",
    "pos": "DE",
    "status": "Questionable",
@@ -1866,14 +1850,6 @@
    "status": "Questionable",
    "detail": "questionable",
    "date": "2026-11-18T23:25Z"
-  },
-  {
-   "team": "SF",
-   "player": "Renardo Green",
-   "pos": "CB",
-   "status": "Questionable",
-   "detail": "Green (back) was a limited participant in Wednesday's practice, Nick Wagoner of ESPN.com reports.",
-   "date": "2026-11-18T20:37Z"
   },
   {
    "team": "SF",
@@ -1997,6 +1973,14 @@
   },
   {
    "team": "TEN",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "status": "Questionable",
+   "detail": "Spears (knee) was limited in practice Thursday.",
+   "date": "2026-11-19T23:40Z"
+  },
+  {
+   "team": "TEN",
    "player": "Carnell Tate",
    "pos": "WR",
    "status": "Questionable",
@@ -2045,14 +2029,6 @@
   },
   {
    "team": "TEN",
-   "player": "Tyjae Spears",
-   "pos": "RB",
-   "status": "Questionable",
-   "detail": "Spears (knee) didn't practice Wednesday.",
-   "date": "2026-11-18T21:45Z"
-  },
-  {
-   "team": "TEN",
    "player": "Wan'Dale Robinson",
    "pos": "WR",
    "status": "Injured Reserve",
@@ -2082,6 +2058,650 @@
    "status": "Injured Reserve",
    "detail": "Commanders head coach Dan Quinn said Monday that Tunsil (triceps) is progressing as anticipated and is ready to begin the strength portion of his recovery program, John Keim of ESPN.com reports.",
    "date": "2026-11-17T00:42Z"
+  }
+ ],
+ "kalshi": [
+  {
+   "event": "KXNFLGAME-26NOV19INDHOU",
+   "title": "Indianapolis vs Houston",
+   "team": "Houston",
+   "prob": 0.845,
+   "prev": 0.85,
+   "volume": 1013817.45,
+   "volume_24h": 789709.28,
+   "open_interest": 950468.54
+  },
+  {
+   "event": "KXNFLGAME-26NOV19INDHOU",
+   "title": "Indianapolis vs Houston",
+   "team": "Indianapolis",
+   "prob": 0.155,
+   "prev": 0.16,
+   "volume": 4602381.87,
+   "volume_24h": 3433934.45,
+   "open_interest": 4256563.24
+  },
+  {
+   "event": "KXNFLGAME-26NOV22ARIKC",
+   "title": "Arizona vs Kansas City",
+   "team": "Kansas City",
+   "prob": 0.915,
+   "prev": 0.91,
+   "volume": 75842.31,
+   "volume_24h": 8200.77,
+   "open_interest": 63981.1
+  },
+  {
+   "event": "KXNFLGAME-26NOV22ARIKC",
+   "title": "Arizona vs Kansas City",
+   "team": "Arizona",
+   "prob": 0.085,
+   "prev": 0.09,
+   "volume": 145791.34,
+   "volume_24h": 33719.09,
+   "open_interest": 123935.54
+  },
+  {
+   "event": "KXNFLGAME-26NOV22BALCAR",
+   "title": "Baltimore vs Carolina",
+   "team": "Carolina",
+   "prob": 0.585,
+   "prev": 0.57,
+   "volume": 76881.82,
+   "volume_24h": 21123.14,
+   "open_interest": 68902.06
+  },
+  {
+   "event": "KXNFLGAME-26NOV22BALCAR",
+   "title": "Baltimore vs Carolina",
+   "team": "Baltimore",
+   "prob": 0.425,
+   "prev": 0.43,
+   "volume": 94343.08,
+   "volume_24h": 70265.11,
+   "open_interest": 88233.54
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MIABUF",
+   "title": "Miami vs Buffalo",
+   "team": "Buffalo",
+   "prob": 0.915,
+   "prev": 0.92,
+   "volume": 123192.1,
+   "volume_24h": 15257.68,
+   "open_interest": 89999.85
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MIABUF",
+   "title": "Miami vs Buffalo",
+   "team": "Miami",
+   "prob": 0.085,
+   "prev": 0.09,
+   "volume": 246395.15,
+   "volume_24h": 65563.14,
+   "open_interest": 200759.24
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NOCHI",
+   "title": "New Orleans vs Chicago",
+   "team": "Chicago",
+   "prob": 0.845,
+   "prev": 0.85,
+   "volume": 161547.76,
+   "volume_24h": 11512.19,
+   "open_interest": 148479.35
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NOCHI",
+   "title": "New Orleans vs Chicago",
+   "team": "New Orleans",
+   "prob": 0.155,
+   "prev": 0.16,
+   "volume": 74267.22,
+   "volume_24h": 17580.37,
+   "open_interest": 61971.68
+  },
+  {
+   "event": "KXNFLGAME-26NOV22PITPHI",
+   "title": "Pittsburgh vs Philadelphia",
+   "team": "Philadelphia",
+   "prob": 0.335,
+   "prev": 0.34,
+   "volume": 32559.43,
+   "volume_24h": 8807.71,
+   "open_interest": 26751.49
+  },
+  {
+   "event": "KXNFLGAME-26NOV22PITPHI",
+   "title": "Pittsburgh vs Philadelphia",
+   "team": "Pittsburgh",
+   "prob": 0.675,
+   "prev": 0.67,
+   "volume": 88500.04,
+   "volume_24h": 17994.13,
+   "open_interest": 76559.27
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TBDET",
+   "title": "Tampa Bay vs Detroit",
+   "team": "Detroit",
+   "prob": 0.715,
+   "prev": 0.76,
+   "volume": 373844.0,
+   "volume_24h": 38565.98,
+   "open_interest": 340940.1
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TBDET",
+   "title": "Tampa Bay vs Detroit",
+   "team": "Tampa Bay",
+   "prob": 0.285,
+   "prev": 0.26,
+   "volume": 433372.57,
+   "volume_24h": 359151.18,
+   "open_interest": 414207.52
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TENDAL",
+   "title": "Tennessee vs Dallas",
+   "team": "Dallas",
+   "prob": 0.765,
+   "prev": 0.79,
+   "volume": 55823.17,
+   "volume_24h": 24414.61,
+   "open_interest": 45585.05
+  },
+  {
+   "event": "KXNFLGAME-26NOV22TENDAL",
+   "title": "Tennessee vs Dallas",
+   "team": "Tennessee",
+   "prob": 0.235,
+   "prev": 0.22,
+   "volume": 64123.11,
+   "volume_24h": 20017.88,
+   "open_interest": 47531.53
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NYJLAC",
+   "title": "New York J vs Los Angeles C",
+   "team": "Los Angeles C",
+   "prob": 0.605,
+   "prev": 0.61,
+   "volume": 31109.7,
+   "volume_24h": 6545.43,
+   "open_interest": 26695.49
+  },
+  {
+   "event": "KXNFLGAME-26NOV22NYJLAC",
+   "title": "New York J vs Los Angeles C",
+   "team": "New York J",
+   "prob": 0.395,
+   "prev": 0.4,
+   "volume": 54103.38,
+   "volume_24h": 11804.27,
+   "open_interest": 47888.32
+  },
+  {
+   "event": "KXNFLGAME-26NOV22JACNYG",
+   "title": "Jacksonville vs New York G",
+   "team": "New York G",
+   "prob": 0.295,
+   "prev": 0.3,
+   "volume": 70911.49,
+   "volume_24h": 15886.77,
+   "open_interest": 66797.98
+  },
+  {
+   "event": "KXNFLGAME-26NOV22JACNYG",
+   "title": "Jacksonville vs New York G",
+   "team": "Jacksonville",
+   "prob": 0.705,
+   "prev": 0.71,
+   "volume": 59445.94,
+   "volume_24h": 14654.21,
+   "open_interest": 56115.81
+  },
+  {
+   "event": "KXNFLGAME-26NOV22LVDEN",
+   "title": "Las Vegas vs Denver",
+   "team": "Denver",
+   "prob": 0.835,
+   "prev": 0.83,
+   "volume": 138150.57,
+   "volume_24h": 10310.88,
+   "open_interest": 125972.08
+  },
+  {
+   "event": "KXNFLGAME-26NOV22LVDEN",
+   "title": "Las Vegas vs Denver",
+   "team": "Las Vegas",
+   "prob": 0.165,
+   "prev": 0.18,
+   "volume": 159294.49,
+   "volume_24h": 42317.73,
+   "open_interest": 136403.73
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MINSF",
+   "title": "Minnesota vs San Francisco",
+   "team": "San Francisco",
+   "prob": 0.605,
+   "prev": 0.6,
+   "volume": 352764.51,
+   "volume_24h": 73949.82,
+   "open_interest": 291705.72
+  },
+  {
+   "event": "KXNFLGAME-26NOV22MINSF",
+   "title": "Minnesota vs San Francisco",
+   "team": "Minnesota",
+   "prob": 0.395,
+   "prev": 0.41,
+   "volume": 868916.82,
+   "volume_24h": 99383.02,
+   "open_interest": 812038.21
+  },
+  {
+   "event": "KXNFLGAME-26NOV23CINWAS",
+   "title": "Cincinnati vs Washington",
+   "team": "Washington",
+   "prob": 0.275,
+   "prev": 0.28,
+   "volume": 28145.21,
+   "volume_24h": 4151.31,
+   "open_interest": 24399.33
+  },
+  {
+   "event": "KXNFLGAME-26NOV23CINWAS",
+   "title": "Cincinnati vs Washington",
+   "team": "Cincinnati",
+   "prob": 0.725,
+   "prev": 0.73,
+   "volume": 57819.37,
+   "volume_24h": 13739.18,
+   "open_interest": 53406.07
+  },
+  {
+   "event": "KXNFLGAME-26NOV25GBLAR",
+   "title": "Green Bay vs Los Angeles R",
+   "team": "Los Angeles R",
+   "prob": 0.625,
+   "prev": 0.61,
+   "volume": 12412.46,
+   "volume_24h": 4108.91,
+   "open_interest": 9835.26
+  },
+  {
+   "event": "KXNFLGAME-26NOV25GBLAR",
+   "title": "Green Bay vs Los Angeles R",
+   "team": "Green Bay",
+   "prob": 0.385,
+   "prev": 0.39,
+   "volume": 61874.41,
+   "volume_24h": 25485.81,
+   "open_interest": 58422.08
+  },
+  {
+   "event": "KXNFLGAME-26NOV26CHIDET",
+   "title": "Chicago vs Detroit",
+   "team": "Detroit",
+   "prob": 0.43,
+   "prev": 0.44,
+   "volume": 8037.73,
+   "volume_24h": 2648.19,
+   "open_interest": 7621.84
+  },
+  {
+   "event": "KXNFLGAME-26NOV26CHIDET",
+   "title": "Chicago vs Detroit",
+   "team": "Chicago",
+   "prob": 0.575,
+   "prev": 0.58,
+   "volume": 11579.29,
+   "volume_24h": 2582.95,
+   "open_interest": 9875.03
+  },
+  {
+   "event": "KXNFLGAME-26NOV26PHIDAL",
+   "title": "Philadelphia vs Dallas",
+   "team": "Dallas",
+   "prob": 0.785,
+   "prev": 0.8,
+   "volume": 3341.66,
+   "volume_24h": 1345.11,
+   "open_interest": 2920.49
+  },
+  {
+   "event": "KXNFLGAME-26NOV26PHIDAL",
+   "title": "Philadelphia vs Dallas",
+   "team": "Philadelphia",
+   "prob": 0.22,
+   "prev": 0.23,
+   "volume": 10072.25,
+   "volume_24h": 6540.15,
+   "open_interest": 9912.05
+  },
+  {
+   "event": "KXNFLGAME-26NOV26KCBUF",
+   "title": "Kansas City vs Buffalo",
+   "team": "Buffalo",
+   "prob": 0.59,
+   "prev": 0.6,
+   "volume": 4778.39,
+   "volume_24h": 1289.8,
+   "open_interest": 4648.43
+  },
+  {
+   "event": "KXNFLGAME-26NOV26KCBUF",
+   "title": "Kansas City vs Buffalo",
+   "team": "Kansas City",
+   "prob": 0.415,
+   "prev": 0.42,
+   "volume": 8646.03,
+   "volume_24h": 1800.5,
+   "open_interest": 8410.73
+  },
+  {
+   "event": "KXNFLGAME-26NOV27DENPIT",
+   "title": "Denver vs Pittsburgh",
+   "team": "Pittsburgh",
+   "prob": 0.45,
+   "prev": 0.48,
+   "volume": 500.57,
+   "volume_24h": 263.77,
+   "open_interest": 482.01
+  },
+  {
+   "event": "KXNFLGAME-26NOV27DENPIT",
+   "title": "Denver vs Pittsburgh",
+   "team": "Denver",
+   "prob": 0.555,
+   "prev": 0.56,
+   "volume": 3857.92,
+   "volume_24h": 1607.99,
+   "open_interest": 3572.06
+  },
+  {
+   "event": "KXNFLGAME-26NOV29ATLMIN",
+   "title": "Atlanta vs Minnesota",
+   "team": "Minnesota",
+   "prob": 0.745,
+   "prev": 0.77,
+   "volume": 1641.37,
+   "volume_24h": 327.89,
+   "open_interest": 1581.59
+  },
+  {
+   "event": "KXNFLGAME-26NOV29ATLMIN",
+   "title": "Atlanta vs Minnesota",
+   "team": "Atlanta",
+   "prob": 0.255,
+   "prev": 0.26,
+   "volume": 410.07,
+   "volume_24h": 156.71,
+   "open_interest": 395.11
+  },
+  {
+   "event": "KXNFLGAME-26NOV29BALHOU",
+   "title": "Baltimore vs Houston",
+   "team": "Houston",
+   "prob": 0.715,
+   "prev": 0.73,
+   "volume": 283.88,
+   "volume_24h": 220.65,
+   "open_interest": 283.88
+  },
+  {
+   "event": "KXNFLGAME-26NOV29BALHOU",
+   "title": "Baltimore vs Houston",
+   "team": "Baltimore",
+   "prob": 0.28,
+   "prev": 0.3,
+   "volume": 611.76,
+   "volume_24h": 327.59,
+   "open_interest": 571.76
+  },
+  {
+   "event": "KXNFLGAME-26NOV29LVCLE",
+   "title": "Las Vegas vs Cleveland",
+   "team": "Cleveland",
+   "prob": 0.65,
+   "prev": 0.67,
+   "volume": 1396.59,
+   "volume_24h": 417.53,
+   "open_interest": 1257.47
+  },
+  {
+   "event": "KXNFLGAME-26NOV29LVCLE",
+   "title": "Las Vegas vs Cleveland",
+   "team": "Las Vegas",
+   "prob": 0.345,
+   "prev": 0.35,
+   "volume": 2363.65,
+   "volume_24h": 887.01,
+   "open_interest": 2305.1
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NOCIN",
+   "title": "New Orleans vs Cincinnati",
+   "team": "Cincinnati",
+   "prob": 0.83,
+   "prev": 0.84,
+   "volume": 814.89,
+   "volume_24h": 127.33,
+   "open_interest": 762.06
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NOCIN",
+   "title": "New Orleans vs Cincinnati",
+   "team": "New Orleans",
+   "prob": 0.165,
+   "prev": 0.18,
+   "volume": 655.76,
+   "volume_24h": 164.08,
+   "open_interest": 624.76
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NYGIND",
+   "title": "New York G vs Indianapolis",
+   "team": "Indianapolis",
+   "prob": 0.34,
+   "prev": 0.36,
+   "volume": 937.13,
+   "volume_24h": 19.65,
+   "open_interest": 932.13
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NYGIND",
+   "title": "New York G vs Indianapolis",
+   "team": "New York G",
+   "prob": 0.665,
+   "prev": 0.67,
+   "volume": 292.86,
+   "volume_24h": 106.02,
+   "open_interest": 217.7
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NYJMIA",
+   "title": "New York J vs Miami",
+   "team": "Miami",
+   "prob": 0.39,
+   "prev": 0.4,
+   "volume": 248.95,
+   "volume_24h": 48.87,
+   "open_interest": 226.95
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NYJMIA",
+   "title": "New York J vs Miami",
+   "team": "New York J",
+   "prob": 0.61,
+   "prev": 0.62,
+   "volume": 103.68,
+   "volume_24h": 1.78,
+   "open_interest": 101.9
+  },
+  {
+   "event": "KXNFLGAME-26NOV29TENJAC",
+   "title": "Tennessee vs Jacksonville",
+   "team": "Jacksonville",
+   "prob": 0.895,
+   "prev": 0.91,
+   "volume": 2936.93,
+   "volume_24h": 168.56,
+   "open_interest": 2844.97
+  },
+  {
+   "event": "KXNFLGAME-26NOV29TENJAC",
+   "title": "Tennessee vs Jacksonville",
+   "team": "Tennessee",
+   "prob": 0.11,
+   "prev": 0.11,
+   "volume": 5702.59,
+   "volume_24h": 2050.3,
+   "open_interest": 5228.39
+  },
+  {
+   "event": "KXNFLGAME-26NOV29SEASF",
+   "title": "Seattle vs San Francisco",
+   "team": "San Francisco",
+   "prob": 0.575,
+   "prev": 0.58,
+   "volume": 3572.41,
+   "volume_24h": 1368.3,
+   "open_interest": 3385.03
+  },
+  {
+   "event": "KXNFLGAME-26NOV29SEASF",
+   "title": "Seattle vs San Francisco",
+   "team": "Seattle",
+   "prob": 0.425,
+   "prev": 0.43,
+   "volume": 3864.45,
+   "volume_24h": 1373.97,
+   "open_interest": 3618.47
+  },
+  {
+   "event": "KXNFLGAME-26NOV29WASARI",
+   "title": "Washington vs Arizona",
+   "team": "Arizona",
+   "prob": 0.265,
+   "prev": 0.28,
+   "volume": 541.06,
+   "volume_24h": 47.01,
+   "open_interest": 501.45
+  },
+  {
+   "event": "KXNFLGAME-26NOV29WASARI",
+   "title": "Washington vs Arizona",
+   "team": "Washington",
+   "prob": 0.73,
+   "prev": 0.74,
+   "volume": 59.16,
+   "volume_24h": 4.93,
+   "open_interest": 59.16
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NELAC",
+   "title": "New England vs Los Angeles C",
+   "team": "Los Angeles C",
+   "prob": 0.67,
+   "prev": 0.71,
+   "volume": 3194.88,
+   "volume_24h": 50.0,
+   "open_interest": 2990.43
+  },
+  {
+   "event": "KXNFLGAME-26NOV29NELAC",
+   "title": "New England vs Los Angeles C",
+   "team": "New England",
+   "prob": 0.325,
+   "prev": 0.31,
+   "volume": 7200.24,
+   "volume_24h": 2670.61,
+   "open_interest": 6728.96
+  },
+  {
+   "event": "KXNFLGAME-26NOV30CARTB",
+   "title": "Carolina vs Tampa Bay",
+   "team": "Tampa Bay",
+   "prob": 0.55,
+   "prev": 0.55,
+   "volume": 1002.52,
+   "volume_24h": 979.42,
+   "open_interest": 974.82
+  },
+  {
+   "event": "KXNFLGAME-26NOV30CARTB",
+   "title": "Carolina vs Tampa Bay",
+   "team": "Carolina",
+   "prob": 0.445,
+   "prev": 0.47,
+   "volume": 1058.26,
+   "volume_24h": 85.08,
+   "open_interest": 1031.36
+  }
+ ],
+ "weather": [
+  {
+   "game": "IND @ HOU",
+   "indoor": true,
+   "summary": "Indoors/roof - weather not a factor"
+  },
+  {
+   "game": "MIA @ BUF",
+   "indoor": false,
+   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
+  },
+  {
+   "game": "NO @ CHI",
+   "indoor": false,
+   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
+  },
+  {
+   "game": "TEN @ DAL",
+   "indoor": true,
+   "summary": "Indoors/roof - weather not a factor"
+  },
+  {
+   "game": "TB @ DET",
+   "indoor": true,
+   "summary": "Indoors/roof - weather not a factor"
+  },
+  {
+   "game": "ARI @ KC",
+   "indoor": false,
+   "summary": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news"
+  },
+  {
+   "game": "PIT @ PHI",
+   "indoor": false,
+   "summary": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news"
+  },
+  {
+   "game": "BAL @ CAR",
+   "indoor": false,
+   "summary": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news"
+  },
+  {
+   "game": "NYJ @ LAC",
+   "indoor": false,
+   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
+  },
+  {
+   "game": "LV @ DEN",
+   "indoor": false,
+   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
+  },
+  {
+   "game": "JAX @ NYG",
+   "indoor": false,
+   "summary": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news"
+  },
+  {
+   "game": "MIN VS SF",
+   "indoor": null,
+   "summary": "Neutral site (Estadio Banorte, Mexico City) - check weather manually"
   }
  ],
  "lines": [
@@ -2374,650 +2994,6 @@
    "total": 43.5,
    "home_win_prob": 0.547,
    "books": 5
-  }
- ],
- "kalshi": [
-  {
-   "event": "KXNFLGAME-26NOV19INDHOU",
-   "title": "Indianapolis vs Houston",
-   "team": "Houston",
-   "prob": 0.845,
-   "prev": 0.85,
-   "volume": 885252.67,
-   "volume_24h": 656466.96,
-   "open_interest": 825332.32
-  },
-  {
-   "event": "KXNFLGAME-26NOV19INDHOU",
-   "title": "Indianapolis vs Houston",
-   "team": "Indianapolis",
-   "prob": 0.155,
-   "prev": 0.16,
-   "volume": 3900491.72,
-   "volume_24h": 2776532.76,
-   "open_interest": 3574179.48
-  },
-  {
-   "event": "KXNFLGAME-26NOV22ARIKC",
-   "title": "Arizona vs Kansas City",
-   "team": "Kansas City",
-   "prob": 0.915,
-   "prev": 0.91,
-   "volume": 75355.1,
-   "volume_24h": 7976.78,
-   "open_interest": 63502.13
-  },
-  {
-   "event": "KXNFLGAME-26NOV22ARIKC",
-   "title": "Arizona vs Kansas City",
-   "team": "Arizona",
-   "prob": 0.085,
-   "prev": 0.09,
-   "volume": 141954.38,
-   "volume_24h": 31217.26,
-   "open_interest": 120349.26
-  },
-  {
-   "event": "KXNFLGAME-26NOV22BALCAR",
-   "title": "Baltimore vs Carolina",
-   "team": "Carolina",
-   "prob": 0.585,
-   "prev": 0.57,
-   "volume": 76139.73,
-   "volume_24h": 20873.01,
-   "open_interest": 68194.03
-  },
-  {
-   "event": "KXNFLGAME-26NOV22BALCAR",
-   "title": "Baltimore vs Carolina",
-   "team": "Baltimore",
-   "prob": 0.425,
-   "prev": 0.43,
-   "volume": 93634.27,
-   "volume_24h": 69762.99,
-   "open_interest": 87607.27
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MIABUF",
-   "title": "Miami vs Buffalo",
-   "team": "Buffalo",
-   "prob": 0.915,
-   "prev": 0.92,
-   "volume": 120735.94,
-   "volume_24h": 14909.34,
-   "open_interest": 87731.97
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MIABUF",
-   "title": "Miami vs Buffalo",
-   "team": "Miami",
-   "prob": 0.085,
-   "prev": 0.09,
-   "volume": 240910.34,
-   "volume_24h": 67078.26,
-   "open_interest": 195697.63
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NOCHI",
-   "title": "New Orleans vs Chicago",
-   "team": "Chicago",
-   "prob": 0.845,
-   "prev": 0.85,
-   "volume": 160850.48,
-   "volume_24h": 11514.67,
-   "open_interest": 147811.58
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NOCHI",
-   "title": "New Orleans vs Chicago",
-   "team": "New Orleans",
-   "prob": 0.155,
-   "prev": 0.16,
-   "volume": 73124.75,
-   "volume_24h": 16892.46,
-   "open_interest": 60897.11
-  },
-  {
-   "event": "KXNFLGAME-26NOV22PITPHI",
-   "title": "Pittsburgh vs Philadelphia",
-   "team": "Philadelphia",
-   "prob": 0.335,
-   "prev": 0.34,
-   "volume": 32193.51,
-   "volume_24h": 8552.48,
-   "open_interest": 26491.79
-  },
-  {
-   "event": "KXNFLGAME-26NOV22PITPHI",
-   "title": "Pittsburgh vs Philadelphia",
-   "team": "Pittsburgh",
-   "prob": 0.675,
-   "prev": 0.67,
-   "volume": 87959.83,
-   "volume_24h": 18315.28,
-   "open_interest": 76030.33
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TBDET",
-   "title": "Tampa Bay vs Detroit",
-   "team": "Detroit",
-   "prob": 0.715,
-   "prev": 0.75,
-   "volume": 371452.75,
-   "volume_24h": 35656.2,
-   "open_interest": 339040.22
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TBDET",
-   "title": "Tampa Bay vs Detroit",
-   "team": "Tampa Bay",
-   "prob": 0.285,
-   "prev": 0.25,
-   "volume": 431890.49,
-   "volume_24h": 359378.75,
-   "open_interest": 412855.3
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TENDAL",
-   "title": "Tennessee vs Dallas",
-   "team": "Dallas",
-   "prob": 0.765,
-   "prev": 0.78,
-   "volume": 55030.08,
-   "volume_24h": 24130.06,
-   "open_interest": 44873.28
-  },
-  {
-   "event": "KXNFLGAME-26NOV22TENDAL",
-   "title": "Tennessee vs Dallas",
-   "team": "Tennessee",
-   "prob": 0.235,
-   "prev": 0.22,
-   "volume": 63879.12,
-   "volume_24h": 20174.21,
-   "open_interest": 47291.49
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NYJLAC",
-   "title": "New York J vs Los Angeles C",
-   "team": "Los Angeles C",
-   "prob": 0.605,
-   "prev": 0.61,
-   "volume": 30978.03,
-   "volume_24h": 6615.55,
-   "open_interest": 26563.87
-  },
-  {
-   "event": "KXNFLGAME-26NOV22NYJLAC",
-   "title": "New York J vs Los Angeles C",
-   "team": "New York J",
-   "prob": 0.395,
-   "prev": 0.4,
-   "volume": 53530.92,
-   "volume_24h": 11564.4,
-   "open_interest": 47315.86
-  },
-  {
-   "event": "KXNFLGAME-26NOV22JACNYG",
-   "title": "Jacksonville vs New York G",
-   "team": "New York G",
-   "prob": 0.295,
-   "prev": 0.3,
-   "volume": 70233.31,
-   "volume_24h": 16127.35,
-   "open_interest": 66119.8
-  },
-  {
-   "event": "KXNFLGAME-26NOV22JACNYG",
-   "title": "Jacksonville vs New York G",
-   "team": "Jacksonville",
-   "prob": 0.705,
-   "prev": 0.71,
-   "volume": 58736.11,
-   "volume_24h": 14488.16,
-   "open_interest": 55433.58
-  },
-  {
-   "event": "KXNFLGAME-26NOV22LVDEN",
-   "title": "Las Vegas vs Denver",
-   "team": "Denver",
-   "prob": 0.835,
-   "prev": 0.82,
-   "volume": 137513.04,
-   "volume_24h": 10068.23,
-   "open_interest": 125452.77
-  },
-  {
-   "event": "KXNFLGAME-26NOV22LVDEN",
-   "title": "Las Vegas vs Denver",
-   "team": "Las Vegas",
-   "prob": 0.165,
-   "prev": 0.18,
-   "volume": 154472.89,
-   "volume_24h": 39089.84,
-   "open_interest": 132114.77
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MINSF",
-   "title": "Minnesota vs San Francisco",
-   "team": "San Francisco",
-   "prob": 0.605,
-   "prev": 0.6,
-   "volume": 347581.26,
-   "volume_24h": 75317.58,
-   "open_interest": 286742.33
-  },
-  {
-   "event": "KXNFLGAME-26NOV22MINSF",
-   "title": "Minnesota vs San Francisco",
-   "team": "Minnesota",
-   "prob": 0.395,
-   "prev": 0.41,
-   "volume": 861485.31,
-   "volume_24h": 97508.39,
-   "open_interest": 805961.55
-  },
-  {
-   "event": "KXNFLGAME-26NOV23CINWAS",
-   "title": "Cincinnati vs Washington",
-   "team": "Washington",
-   "prob": 0.275,
-   "prev": 0.28,
-   "volume": 27982.38,
-   "volume_24h": 4353.47,
-   "open_interest": 24236.5
-  },
-  {
-   "event": "KXNFLGAME-26NOV23CINWAS",
-   "title": "Cincinnati vs Washington",
-   "team": "Cincinnati",
-   "prob": 0.725,
-   "prev": 0.73,
-   "volume": 57347.59,
-   "volume_24h": 14267.64,
-   "open_interest": 52941.01
-  },
-  {
-   "event": "KXNFLGAME-26NOV25GBLAR",
-   "title": "Green Bay vs Los Angeles R",
-   "team": "Los Angeles R",
-   "prob": 0.625,
-   "prev": 0.63,
-   "volume": 12314.21,
-   "volume_24h": 4175.06,
-   "open_interest": 9737.01
-  },
-  {
-   "event": "KXNFLGAME-26NOV25GBLAR",
-   "title": "Green Bay vs Los Angeles R",
-   "team": "Green Bay",
-   "prob": 0.385,
-   "prev": 0.38,
-   "volume": 60018.01,
-   "volume_24h": 24198.82,
-   "open_interest": 56565.68
-  },
-  {
-   "event": "KXNFLGAME-26NOV26CHIDET",
-   "title": "Chicago vs Detroit",
-   "team": "Detroit",
-   "prob": 0.43,
-   "prev": 0.44,
-   "volume": 7899.49,
-   "volume_24h": 2761.5,
-   "open_interest": 7483.6
-  },
-  {
-   "event": "KXNFLGAME-26NOV26CHIDET",
-   "title": "Chicago vs Detroit",
-   "team": "Chicago",
-   "prob": 0.575,
-   "prev": 0.58,
-   "volume": 11235.98,
-   "volume_24h": 2788.12,
-   "open_interest": 9531.72
-  },
-  {
-   "event": "KXNFLGAME-26NOV26PHIDAL",
-   "title": "Philadelphia vs Dallas",
-   "team": "Dallas",
-   "prob": 0.785,
-   "prev": 0.8,
-   "volume": 3271.85,
-   "volume_24h": 1312.64,
-   "open_interest": 2850.68
-  },
-  {
-   "event": "KXNFLGAME-26NOV26PHIDAL",
-   "title": "Philadelphia vs Dallas",
-   "team": "Philadelphia",
-   "prob": 0.22,
-   "prev": 0.22,
-   "volume": 9801.81,
-   "volume_24h": 6600.0,
-   "open_interest": 9641.61
-  },
-  {
-   "event": "KXNFLGAME-26NOV26KCBUF",
-   "title": "Kansas City vs Buffalo",
-   "team": "Buffalo",
-   "prob": 0.59,
-   "prev": 0.6,
-   "volume": 4728.8,
-   "volume_24h": 1291.68,
-   "open_interest": 4598.84
-  },
-  {
-   "event": "KXNFLGAME-26NOV26KCBUF",
-   "title": "Kansas City vs Buffalo",
-   "team": "Kansas City",
-   "prob": 0.415,
-   "prev": 0.42,
-   "volume": 8519.26,
-   "volume_24h": 1882.2,
-   "open_interest": 8283.96
-  },
-  {
-   "event": "KXNFLGAME-26NOV27DENPIT",
-   "title": "Denver vs Pittsburgh",
-   "team": "Pittsburgh",
-   "prob": 0.445,
-   "prev": 0.48,
-   "volume": 497.55,
-   "volume_24h": 251.28,
-   "open_interest": 479.99
-  },
-  {
-   "event": "KXNFLGAME-26NOV27DENPIT",
-   "title": "Denver vs Pittsburgh",
-   "team": "Denver",
-   "prob": 0.55,
-   "prev": 0.55,
-   "volume": 3820.55,
-   "volume_24h": 1634.85,
-   "open_interest": 3558.93
-  },
-  {
-   "event": "KXNFLGAME-26NOV29ATLMIN",
-   "title": "Atlanta vs Minnesota",
-   "team": "Minnesota",
-   "prob": 0.75,
-   "prev": 0.77,
-   "volume": 1579.37,
-   "volume_24h": 282.5,
-   "open_interest": 1519.59
-  },
-  {
-   "event": "KXNFLGAME-26NOV29ATLMIN",
-   "title": "Atlanta vs Minnesota",
-   "team": "Atlanta",
-   "prob": 0.25,
-   "prev": 0.26,
-   "volume": 406.42,
-   "volume_24h": 153.06,
-   "open_interest": 391.46
-  },
-  {
-   "event": "KXNFLGAME-26NOV29BALHOU",
-   "title": "Baltimore vs Houston",
-   "team": "Houston",
-   "prob": 0.715,
-   "prev": 0.73,
-   "volume": 283.88,
-   "volume_24h": 220.65,
-   "open_interest": 283.88
-  },
-  {
-   "event": "KXNFLGAME-26NOV29BALHOU",
-   "title": "Baltimore vs Houston",
-   "team": "Baltimore",
-   "prob": 0.285,
-   "prev": 0.3,
-   "volume": 608.48,
-   "volume_24h": 324.31,
-   "open_interest": 568.48
-  },
-  {
-   "event": "KXNFLGAME-26NOV29LVCLE",
-   "title": "Las Vegas vs Cleveland",
-   "team": "Cleveland",
-   "prob": 0.65,
-   "prev": 0.66,
-   "volume": 1389.2,
-   "volume_24h": 453.47,
-   "open_interest": 1250.08
-  },
-  {
-   "event": "KXNFLGAME-26NOV29LVCLE",
-   "title": "Las Vegas vs Cleveland",
-   "team": "Las Vegas",
-   "prob": 0.345,
-   "prev": 0.36,
-   "volume": 2296.07,
-   "volume_24h": 874.08,
-   "open_interest": 2237.52
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NOCIN",
-   "title": "New Orleans vs Cincinnati",
-   "team": "Cincinnati",
-   "prob": 0.83,
-   "prev": 0.84,
-   "volume": 814.89,
-   "volume_24h": 134.39,
-   "open_interest": 762.06
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NOCIN",
-   "title": "New Orleans vs Cincinnati",
-   "team": "New Orleans",
-   "prob": 0.165,
-   "prev": 0.18,
-   "volume": 650.51,
-   "volume_24h": 158.83,
-   "open_interest": 619.51
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NYGIND",
-   "title": "New York G vs Indianapolis",
-   "team": "Indianapolis",
-   "prob": 0.34,
-   "prev": 0.36,
-   "volume": 922.48,
-   "volume_24h": 5.0,
-   "open_interest": 917.48
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NYGIND",
-   "title": "New York G vs Indianapolis",
-   "team": "New York G",
-   "prob": 0.66,
-   "prev": 0.67,
-   "volume": 292.86,
-   "volume_24h": 106.02,
-   "open_interest": 217.7
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NYJMIA",
-   "title": "New York J vs Miami",
-   "team": "Miami",
-   "prob": 0.39,
-   "prev": 0.4,
-   "volume": 236.97,
-   "volume_24h": 36.89,
-   "open_interest": 214.97
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NYJMIA",
-   "title": "New York J vs Miami",
-   "team": "New York J",
-   "prob": 0.61,
-   "prev": 0.62,
-   "volume": 103.68,
-   "volume_24h": 1.78,
-   "open_interest": 101.9
-  },
-  {
-   "event": "KXNFLGAME-26NOV29TENJAC",
-   "title": "Tennessee vs Jacksonville",
-   "team": "Jacksonville",
-   "prob": 0.89,
-   "prev": 0.91,
-   "volume": 2920.39,
-   "volume_24h": 189.68,
-   "open_interest": 2828.43
-  },
-  {
-   "event": "KXNFLGAME-26NOV29TENJAC",
-   "title": "Tennessee vs Jacksonville",
-   "team": "Tennessee",
-   "prob": 0.115,
-   "prev": 0.11,
-   "volume": 5537.63,
-   "volume_24h": 1885.34,
-   "open_interest": 5063.43
-  },
-  {
-   "event": "KXNFLGAME-26NOV29SEASF",
-   "title": "Seattle vs San Francisco",
-   "team": "San Francisco",
-   "prob": 0.575,
-   "prev": 0.58,
-   "volume": 3485.88,
-   "volume_24h": 1468.8,
-   "open_interest": 3298.5
-  },
-  {
-   "event": "KXNFLGAME-26NOV29SEASF",
-   "title": "Seattle vs San Francisco",
-   "team": "Seattle",
-   "prob": 0.43,
-   "prev": 0.43,
-   "volume": 3639.18,
-   "volume_24h": 1178.01,
-   "open_interest": 3393.2
-  },
-  {
-   "event": "KXNFLGAME-26NOV29WASARI",
-   "title": "Washington vs Arizona",
-   "team": "Arizona",
-   "prob": 0.265,
-   "prev": 0.28,
-   "volume": 537.66,
-   "volume_24h": 43.61,
-   "open_interest": 498.05
-  },
-  {
-   "event": "KXNFLGAME-26NOV29WASARI",
-   "title": "Washington vs Arizona",
-   "team": "Washington",
-   "prob": 0.73,
-   "prev": 0.74,
-   "volume": 58.16,
-   "volume_24h": 3.93,
-   "open_interest": 58.16
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NELAC",
-   "title": "New England vs Los Angeles C",
-   "team": "Los Angeles C",
-   "prob": 0.665,
-   "prev": 0.68,
-   "volume": 3194.88,
-   "volume_24h": 2835.02,
-   "open_interest": 2990.43
-  },
-  {
-   "event": "KXNFLGAME-26NOV29NELAC",
-   "title": "New England vs Los Angeles C",
-   "team": "New England",
-   "prob": 0.335,
-   "prev": 0.34,
-   "volume": 7131.45,
-   "volume_24h": 2745.32,
-   "open_interest": 6716.39
-  },
-  {
-   "event": "KXNFLGAME-26NOV30CARTB",
-   "title": "Carolina vs Tampa Bay",
-   "team": "Tampa Bay",
-   "prob": 0.55,
-   "prev": 0.55,
-   "volume": 1002.52,
-   "volume_24h": 979.42,
-   "open_interest": 974.82
-  },
-  {
-   "event": "KXNFLGAME-26NOV30CARTB",
-   "title": "Carolina vs Tampa Bay",
-   "team": "Carolina",
-   "prob": 0.445,
-   "prev": 0.47,
-   "volume": 1056.17,
-   "volume_24h": 82.99,
-   "open_interest": 1029.27
-  }
- ],
- "weather": [
-  {
-   "game": "IND @ HOU",
-   "indoor": true,
-   "summary": "Indoors/roof - weather not a factor"
-  },
-  {
-   "game": "MIA @ BUF",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "NO @ CHI",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "TEN @ DAL",
-   "indoor": true,
-   "summary": "Indoors/roof - weather not a factor"
-  },
-  {
-   "game": "TB @ DET",
-   "indoor": true,
-   "summary": "Indoors/roof - weather not a factor"
-  },
-  {
-   "game": "ARI @ KC",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "PIT @ PHI",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "BAL @ CAR",
-   "indoor": false,
-   "summary": "Forecast unavailable (<urlopen error [Errno 104] Connection reset by peer>); check a weather app or news"
-  },
-  {
-   "game": "NYJ @ LAC",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "LV @ DEN",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "JAX @ NYG",
-   "indoor": false,
-   "summary": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news"
-  },
-  {
-   "game": "MIN VS SF",
-   "indoor": null,
-   "summary": "Neutral site (Estadio Banorte, Mexico City) - check weather manually"
   }
  ]
 }
