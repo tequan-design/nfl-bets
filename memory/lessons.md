@@ -33,6 +33,11 @@ Update every Wednesday after grading. Newest lessons first under each heading. K
   use rush+rec yds or the receiving line.
 - Near misses: McCaffrey 62 vs 62.5, Higgins 66 vs 75.5. Half-point lines matter: when two apps differ, take the lower one.
 
+## Week 11 notes (in progress)
+- TNF: Collins goblin would hit (58) but my Thursday "upgrade to standard 70.5" text would have missed. When a goblin leg looks
+  even better on game day, keep the goblin; don't chase the upgrade on TNF.
+- Trailing-team RB receiving overs are not automatic: Taylor had 6 rec yds as IND lost 26-3 (blowouts can kill the whole offense).
+
 ## Thursday Night Football
 - Treat TNF results as noisy. Prior: halve stakes, favor floor props, at most one TNF leg per Power entry.
 
