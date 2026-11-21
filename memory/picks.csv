@@ -85,4 +85,4 @@ season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,es
 2026,11,2026-11-21,prizepicks,Flex 5,flex,Dak Prescott,DAL,TEN@DAL,pass_yds,278.5,over,0.53,5,9,0,,,Standard; weather swap
 2026,11,2026-11-21,prizepicks,Flex 5,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.51,5,9,0,,,Standard; weather swap
 2026,11,2026-11-21,prizepicks,Flex 6,flex,Dak Prescott,DAL,TEN@DAL,pass_yds,278.5,over,0.53,2,22,0,,,Standard; weather swap
-2026,11,2026-11-21,prizepicks,Flex 6,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.51,2,22,0,,,Standard; weather swap
+2026,11,2026-11-21,prizepicks,Flex 6,flex,Javonte Williams,DAL,TEN@DAL,rush_yds,62.5,over,0.73,2,18,0,,,Goblin ~62; weather swap
