@@ -59,17 +59,17 @@ season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,es
 2026,11,2026-11-18,prizepicks,Power 2,power,Christian McCaffrey,SF,MIN@SF,rush_yds,49.5,over,0.58,10,3,0,,,Standard
 2026,11,2026-11-18,prizepicks,Power 2,power,George Pickens,DAL,TEN@DAL,rec_yds,67.5,over,0.56,10,3,0,,,Standard
 2026,11,2026-11-18,prizepicks,Power 3,power,Dak Prescott,DAL,TEN@DAL,pass_yds,277.5,over,0.53,5,4.75,0,,,Standard
-2026,11,2026-11-18,prizepicks,Power 3,power,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,5,4.75,0,,,Standard
+2026,11,2026-11-18,prizepicks,Power 3,power,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,5,4.75,0,void,,"Standard; swapped Sat 11/21: NO@CHI rain 84%, gusts 25"
 2026,11,2026-11-18,prizepicks,Power 3,power,Javonte Williams,DAL,TEN@DAL,rush_yds,62.5,over,0.73,5,4.75,0,,,Goblin ~60-65
 2026,11,2026-11-18,prizepicks,Flex 5,flex,Christian McCaffrey,SF,MIN@SF,rush_yds,49.5,over,0.58,5,9,0,,,Standard
 2026,11,2026-11-18,prizepicks,Flex 5,flex,George Pickens,DAL,TEN@DAL,rec_yds,67.5,over,0.56,5,9,0,,,Standard
-2026,11,2026-11-18,prizepicks,Flex 5,flex,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,5,9,0,,,Standard
-2026,11,2026-11-18,prizepicks,Flex 5,flex,Rome Odunze,CHI,NO@CHI,rec_yds,47.5,over,0.57,5,9,0,,,Standard
+2026,11,2026-11-18,prizepicks,Flex 5,flex,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,5,9,0,void,,"Standard; swapped Sat 11/21: NO@CHI rain 84%, gusts 25"
+2026,11,2026-11-18,prizepicks,Flex 5,flex,Rome Odunze,CHI,NO@CHI,rec_yds,47.5,over,0.57,5,9,0,void,,"Standard; swapped Sat 11/21: NO@CHI rain 84%, gusts 25"
 2026,11,2026-11-18,prizepicks,Flex 5,flex,Jahmyr Gibbs,DET,TB@DET,rush_yds,69.5,over,0.68,5,9,0,,,Goblin ~70
 2026,11,2026-11-18,prizepicks,Flex 6,flex,Christian McCaffrey,SF,MIN@SF,rush_yds,49.5,over,0.58,2,22,0,,,Standard
 2026,11,2026-11-18,prizepicks,Flex 6,flex,George Pickens,DAL,TEN@DAL,rec_yds,67.5,over,0.56,2,22,0,,,Standard
-2026,11,2026-11-18,prizepicks,Flex 6,flex,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,2,22,0,,,Standard
-2026,11,2026-11-18,prizepicks,Flex 6,flex,Rome Odunze,CHI,NO@CHI,rec_yds,47.5,over,0.57,2,22,0,,,Standard
+2026,11,2026-11-18,prizepicks,Flex 6,flex,Caleb Williams,CHI,NO@CHI,pass_yds,249.5,over,0.56,2,22,0,void,,"Standard; swapped Sat 11/21: NO@CHI rain 84%, gusts 25"
+2026,11,2026-11-18,prizepicks,Flex 6,flex,Rome Odunze,CHI,NO@CHI,rec_yds,47.5,over,0.57,2,22,0,void,,"Standard; swapped Sat 11/21: NO@CHI rain 84%, gusts 25"
 2026,11,2026-11-18,prizepicks,Flex 6,flex,Jahmyr Gibbs,DET,TB@DET,rush_yds,69.5,over,0.68,2,22,0,,,Goblin ~70
 2026,11,2026-11-18,prizepicks,Flex 6,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.5,2,22,0,,,Demon ~100 or Standard 92.5
 2026,11,2026-11-18,prizepicks,TNF,power,Nico Collins,HOU,IND@HOU,rec_yds,52.5,over,0.7,5,2.5,1,,,Goblin ~50-55
@@ -81,3 +81,8 @@ season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,es
 2026,11,2026-11-18,kalshi,Kalshi ML parlay,kalshi,DEN,DEN,,ml,,win,0.825,3,3.4,0,,,
 2026,11,2026-11-18,kalshi,Kalshi ML parlay,kalshi,DAL,DAL,,ml,,win,0.785,3,3.4,0,,,
 2026,11,2026-11-18,kalshi,Kalshi ML parlay,kalshi,DET,DET,,ml,,win,0.755,3,3.4,0,,,
+2026,11,2026-11-21,prizepicks,Power 3,power,Jahmyr Gibbs,DET,TB@DET,rush_yds,69.5,over,0.68,5,4,0,,,Goblin ~70; weather swap for Caleb
+2026,11,2026-11-21,prizepicks,Flex 5,flex,Dak Prescott,DAL,TEN@DAL,pass_yds,278.5,over,0.53,5,9,0,,,Standard; weather swap
+2026,11,2026-11-21,prizepicks,Flex 5,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.51,5,9,0,,,Standard; weather swap
+2026,11,2026-11-21,prizepicks,Flex 6,flex,Dak Prescott,DAL,TEN@DAL,pass_yds,278.5,over,0.53,2,22,0,,,Standard; weather swap
+2026,11,2026-11-21,prizepicks,Flex 6,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.51,2,22,0,,,Standard; weather swap
