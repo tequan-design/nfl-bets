@@ -94,6 +94,16 @@
   "injury|Case Keenum|Out",
   "injury|Cole Payton|Out",
   "weather|ARI @ KC|None",
-  "weather|CIN @ WSH|None"
+  "weather|CIN @ WSH|None",
+  "kalshi_swing|Arizona vs Kansas City|0.995",
+  "kalshi_swing|Arizona vs Kansas City|0.01",
+  "kalshi_swing|Baltimore vs Carolina|0.425",
+  "kalshi_swing|Baltimore vs Carolina|0.575",
+  "kalshi_swing|Miami vs Buffalo|0.015",
+  "kalshi_swing|Pittsburgh vs Philadelphia|0.645",
+  "kalshi_swing|Pittsburgh vs Philadelphia|0.345",
+  "kalshi_swing|Tennessee vs Dallas|0.945",
+  "kalshi_swing|Tennessee vs Dallas|0.055",
+  "injury|KeAndre Lambert-Smith|Out"
  ]
 }
