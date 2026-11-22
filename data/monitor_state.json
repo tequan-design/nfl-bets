@@ -104,6 +104,10 @@
   "kalshi_swing|Pittsburgh vs Philadelphia|0.345",
   "kalshi_swing|Tennessee vs Dallas|0.945",
   "kalshi_swing|Tennessee vs Dallas|0.055",
-  "injury|KeAndre Lambert-Smith|Out"
+  "injury|KeAndre Lambert-Smith|Out",
+  "kalshi_swing|New York J vs Los Angeles C|0.01",
+  "kalshi_swing|New York J vs Los Angeles C|0.995",
+  "kalshi_swing|Jacksonville vs New York G|0.875",
+  "kalshi_swing|Jacksonville vs New York G|0.125"
  ]
 }
