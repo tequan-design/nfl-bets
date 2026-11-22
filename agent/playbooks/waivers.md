@@ -10,9 +10,12 @@ the moment this summary arrives.
 2. Quan's rosters. Identify: injured players (verify on the web), bye weeks for next
    week (`scripts/odds.py --week` once next week's lines are posted, else web search),
    and the weakest bench spots (drop candidates).
+2b. Opportunity scan (`agent/playbooks/research.md` §3): which NFL starters got hurt or
+   benched this week, and is the next man up available in either league?
 3. `get_free_agents` for each league: count 40 overall plus position-filtered for
    needs. Note `acquisitionState` in End Zone Bound.
-4. Web research for top candidates: role change (injury to a starter, depth chart),
+4. `scripts/player_stats.py` on every candidate and on Quan's drop candidates; read the
+   week's waiver-wire articles (NFL.com, Yahoo, CBS). Web research for top candidates: role change (injury to a starter, depth chart),
    snap share/targets/carries last week, next opponent's defense.
 5. Rank up to 5 targets per league with the exact drop for each. End Zone Bound has
    rolling waiver priority (Quan's spot is in `get_standings` → `waiverPriority`): only

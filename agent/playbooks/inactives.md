@@ -8,6 +8,8 @@ Fires Sunday 11:45am ET. Inactive lists for the 1:00pm games come out ~11:30am.
 3. Web search the inactive lists / late news for every **started** player and every
    Questionable player on either roster ("<team> inactives week N", "<player> active").
    Also check late-game (4pm) and Sunday/Monday night players for new downgrades.
+3b. For a starter who is Out, run the opportunity scan in `agent/playbooks/research.md`:
+   in Dirty South the next man up may be an instant free-agent add before kickoff.
 4. Flag, in order of urgency:
    - A starter who is **Out/inactive** → name the best bench replacement (or free agent in
      Dirty South) and the exact swap.

@@ -8,35 +8,53 @@ window, End Zone Bound: 2 days). A trade has to be *accepted* that many days bef
 deadline to clear. Past that point, stop suggesting trades and delete the
 `data/agent/trades` rows.
 
+## The bar every idea must clear (non-negotiable)
+
+Quan's rule: **he has to get the better value, and the player he gets must be producing.**
+Value charts and name recognition are not enough. Use `python3 scripts/player_stats.py`
+(ESPN game logs scored with each league's rules) for every player in an offer.
+
+A player Quan **receives** must have, in that league's scoring:
+1. **Production:** points per game at least 3 higher than the starter he replaces, and
+   recent form (last 3 games) that isn't collapsing. Reject anyone who rarely reaches
+   10 points.
+2. **Usage:** a real, stable role, e.g. WR 6+ targets/game, RB 12+ touches/game.
+   Low-volume players whose points come from rare long TDs don't count.
+3. **Schedule:** check the remaining opponents, especially fantasy playoff weeks 15–17.
+   Flag any playoff week against a top-5 defense.
+4. **Health:** verify on the web that he's active and not on a short-term injury.
+5. **Not already a free agent.** Check `get_free_agents` first. Never trade for someone
+   Quan could pick up for free.
+
+The trade as a whole must leave Quan's **weekly starting lineup better**. Add up the
+points-per-game gained where he upgrades, minus what he loses where the outgoing player's
+replacement (bench player or best free agent) starts instead. Only suggest trades with a
+clearly positive net, and state that net in the idea ("+6.8 pts/week").
+
 ## Steps (each league)
-1. Quan's roster: list each position's starters, then **surplus** (bench players who'd
-   start for other teams) and **need** (the weakest starting slot, judged with that
-   league's scoring).
-2. `get_roster` for every other team. For each, note its needs (too few startable players
-   at a position, or a starter Out/IR) and surplus (good players stuck on its bench).
-3. Pair them: a partner with surplus at Quan's need **and** need at Quan's surplus. Prefer:
-   - teams that are out of the race or below .500 (more willing to deal),
-   - 2-for-1 offers from Quan's bench depth (the partner fills a hole, Quan consolidates),
-   - not this week's opponent and not a direct rival for a playoff seed, unless the deal is
-     clearly better for Quan.
-4. Price each idea with a current rest-of-season trade value chart (search "trade value
-   chart week N <year>"; Roto Street Journal, FantasyPros, CBS, Yahoo). Use one chart for
-   both sides and quote it. Aim for offers the other manager would accept: Quan may give
-   slightly more raw value when he gets the best player in the deal.
-5. Verify health and role on the web for every player in an offer. Mark anything you
-   couldn't verify "unverified".
-6. Write 2–4 ideas per league, best first. Include a fallback when two ideas use the
-   same player of Quan's.
+1. Quan's roster with `player_stats.py`: each starter's PPG, plus **surplus** (bench players
+   who'd start elsewhere) and **need** (the weakest starting slot by PPG).
+2. `get_roster` for every other team. For each, note needs (a weak starter, or a starter
+   who is Out/on IR) and surplus (productive players stuck on its bench).
+3. Pair them: a partner with surplus at Quan's need **and** need at Quan's surplus. Prefer
+   partners where the deal also helps them on paper (more likely to be accepted), teams
+   below .500, and 2-for-1s from Quan's depth. Avoid this week's opponent and direct seed
+   rivals unless the deal is clearly better for Quan.
+4. Run `player_stats.py` on every candidate and apply the bar above. Use a trade value
+   chart (FantasyPros, CBS, Yahoo) only as a cross-check on how the other manager will see it.
+5. Write 2–4 ideas per league, best first, with a fallback when two ideas use the same
+   player of Quan's.
 
 ## Write to the dashboard
 `data/agent/trades` (replace all rows). Doc id `<league-slug>-<rank>`.
 ```json
-{"league": "End Zone Bound", "rank": 1, "partner": "Anonymous", "partnerNote": "5-5; only 2 RBs",
- "give": "Jonah Coleman", "get": "Drake London",
- "why": "…", "value": "Coleman 2002 vs London 1839 (Roto Street Journal, Week 11)",
+{"league": "End Zone Bound", "rank": 1, "partner": "A-TOWN JAGS", "partnerNote": "5-5 · Kenneth Walker III out",
+ "give": "Chase Brown (RB, CIN) — 11.8 ppg", "get": "Tee Higgins (WR, CIN) — 17.1 ppg",
+ "why": "…usage, recent form, playoff schedule, why they'd accept…",
+ "value": "Net +5.3 pts/week for your lineup (league scoring, ESPN game logs)",
  "confidence": "Medium", "sendBy": "Mon 11/24"}
 ```
 Add one priority-2 `data/agent/moves` item per league pointing at the best idea.
 
 ## Push summary
-One line per league: "Offer <give> to <partner> for <get>."
+One line per league: "Offer <give> to <partner> for <get> (+N pts/week)."

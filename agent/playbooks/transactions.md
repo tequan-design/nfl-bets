@@ -21,6 +21,8 @@ the last check and tell Quan only when it matters. **Stay quiet otherwise.**
      on Quan's teams' schedule; a handcuff to one of Quan's RBs was picked up.
    - **info** — everything else.
    Verify on the web before calling something act (why was he dropped? injured?).
+3b. Opportunity scan (`agent/playbooks/research.md` §3) on any injury news since the last
+   check; an injured NFL starter's backup who is available is an **act** item.
 4. Update the hour histogram in `data/agent/state` doc `txhours` with each new
    transaction's hour in America/New_York.
 5. Save the newest timestamp per league to `cursor`.

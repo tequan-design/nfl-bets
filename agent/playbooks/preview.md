@@ -14,6 +14,8 @@ Fires Saturday early afternoon ET, after Friday's final injury reports.
      of Quan's rosters who might start. Search by team ("<team> final injury report week N").
    - Role news for any RB/WR in a committee or a changed depth chart.
    - Weather for outdoor games with wind > 15 mph or heavy rain/snow.
+3b. Follow `agent/playbooks/research.md`: run `scripts/player_stats.py` on every player who
+   could start, read 2+ expert start/sit articles for the week, and do the opportunity scan.
 4. For each league decide every starting slot. Inputs, in order: availability → role/volume
    → implied team total and game script → that league's scoring (see `agent/leagues.md`)
    → matchup. Note bench players who outscore a starter.

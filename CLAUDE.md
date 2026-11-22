@@ -21,7 +21,9 @@ just ask questions; the same rules apply.
 | Need | Source |
 |---|---|
 | Rosters, lineups, matchups, standings, free agents, transactions | **Flaim Fantasy** connector (`mcp__Flaim_Fantasy__*`), Yahoo, season 2026 |
-| Injury status, depth charts, role changes, beat-writer news | `WebSearch` (prefer team sites, NFL.com, ESPN, CBS, Rotowire, FantasyPros) |
+| Player production & usage (PPG in each league's scoring, targets, carries, playoff schedule) | `python3 scripts/player_stats.py "Name" ...` (ESPN game logs) |
+| Injury status, depth charts, role changes, beat-writer news | `WebSearch` + fetch NFL.com, Yahoo, CBS, Rotowire, Fantasy Life, ESPN pages directly |
+| Expert start/sit and waiver articles | Same sites; see `agent/playbooks/research.md` |
 | Game spreads/totals → implied team totals; player props | `python3 scripts/odds.py` (The Odds API; credentials are injected by the proxy) |
 | Prediction-market signals and NFL player props | **Billy Bets** connector (optional; show its attribution and disclosure lines if used) |
 
@@ -31,6 +33,11 @@ league, before other Flaim calls (the connector requires this order). IDs are in
 
 ## Hard rules
 
+- **Judge players by what they're actually producing** in Quan's league scoring
+  (`scripts/player_stats.py`), not by name, draft position or a value-chart rank. Every
+  start/sit, pickup and trade cites points per game and usage.
+- Run the opportunity scan in `agent/playbooks/research.md` every preview, waivers and
+  monitor run: injured starters create pickups.
 - **Never state a player's team, role or health from memory.** Verify with a current web
   source or the connector. If you couldn't verify, say "unverified" next to the claim.
 - Flaim is read-only. The agent **cannot** set lineups, add/drop or trade. It tells Quan
@@ -55,8 +62,9 @@ Write with the `ArtifactData` tool (load via ToolSearch). Schemas: `agent/dashbo
 
 - `agent/leagues.md` — league facts and scoring digest
 - `agent/playbooks/*.md` — one file per scheduled run (`trades.md` is a step inside
-  the preview and waivers runs)
+  the preview and waivers runs; `research.md` is the toolkit every run uses)
 - `agent/dashboard.md` — dashboard store collections and row shapes
 - `agent/schedule.md` — when each run fires and why (incl. transaction-timing analysis)
 - `scripts/odds.py` — NFL lines → implied team totals, optional player props
+- `scripts/player_stats.py` — per-player PPG in both leagues' scoring, usage, ROS schedule
 - `scripts/tx_timing.py` — re-run the transaction-timing analysis from a JSON dump
