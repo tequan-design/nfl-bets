@@ -41,6 +41,10 @@ Doc id `<league-slug>-<rank>`. Replace all on the Tuesday run.
  "status": "Free agent", "drop": "DeMario Douglas", "why": "…"}
 ```
 
+### `data/agent/trades` — trade ideas (until the deadline)
+Doc id `<league-slug>-<rank>`. Replace all on each run that does trades; delete all after
+the deadline. Shape in `agent/playbooks/trades.md`.
+
 ### `data/agent/alerts` — league activity worth knowing
 Doc id: the transaction's time as `YYYYMMDD-HHMM-<league-slug>`. Keep the last ~40;
 delete older ones.

@@ -54,7 +54,8 @@ Write with the `ArtifactData` tool (load via ToolSearch). Schemas: `agent/dashbo
 ## Repo layout
 
 - `agent/leagues.md` — league facts and scoring digest
-- `agent/playbooks/*.md` — one file per scheduled run
+- `agent/playbooks/*.md` — one file per scheduled run (`trades.md` is a step inside
+  the preview and waivers runs)
 - `agent/dashboard.md` — dashboard store collections and row shapes
 - `agent/schedule.md` — when each run fires and why (incl. transaction-timing analysis)
 - `scripts/odds.py` — NFL lines → implied team totals, optional player props

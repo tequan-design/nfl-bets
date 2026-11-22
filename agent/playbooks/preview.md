@@ -23,12 +23,12 @@ Fires Saturday early afternoon ET, after Friday's final injury reports.
    week's lineup or covers a bye/injury.
 6. Opponent read: their projected points, their questionable starters, and whether Quan
    is an underdog (if so, lean upside plays; if a big favorite, lean safe floors).
-7. Trade note (only until the trade deadline in `agent/leagues.md`): one idea per league
-   if a clear surplus/need pairing exists with a specific team.
+7. Trades (until the deadline in `agent/leagues.md`): follow `agent/playbooks/trades.md`.
 
 ## Write to the dashboard
 - `data/agent/lineup`: all 18 slot rows (9 per league).
 - `data/agent/moves`: replace with this run's action items.
+- `data/agent/trades`: replace (see `trades.md`), until the deadline.
 - `data/agent/runs`: one row.
 
 ## Push summary (final message)

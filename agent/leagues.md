@@ -2,6 +2,8 @@
 
 Both leagues: Yahoo, football, `season_year` 2026, head-to-head points, regular season
 weeks 1–17 (check `get_league_info` for playoff weeks), trade deadline **2026-11-28**.
+Trades are ratified by league vote: Dirty South allows 1 day to reject, End Zone Bound 2
+days, so a trade must be accepted by ~11/27 (Dirty South) or ~11/26 (End Zone Bound).
 Lineup: QB, RB, RB, WR, WR, TE, W/R/T (flex), K, DEF + 6 bench.
 
 | | Dirty South League 1 | End Zone Bound |

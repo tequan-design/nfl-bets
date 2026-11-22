@@ -23,7 +23,8 @@ the moment this summary arrives.
    kick off before Thursday 3:45pm ET (Wednesday games, Thanksgiving, international), list
    Quan's players in them in the summary, and check `list_triggers` for a one-off early-game
    run; if there is none, say "No early-game check is scheduled. Ask me to add one."
-8. Recap last week in one line per league (win/loss, best and worst starter vs projection,
+8. Trades (until the deadline in `agent/leagues.md`): follow `agent/playbooks/trades.md`.
+9. Recap last week in one line per league (win/loss, best and worst starter vs projection,
    and whether the agent's advice helped or hurt). Be honest.
 
 ## Write to the dashboard
