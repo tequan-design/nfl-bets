@@ -1,11 +1,22 @@
 # Research toolkit (used by every playbook)
 
-## 1. Production and usage: `scripts/player_stats.py`
+## 1a. Points: Yahoo's own numbers come first
+For any player on a roster in Quan's leagues, use **Yahoo's actual weekly points**:
+`get_roster` with `week=N` (one call per week; it returns every player's points in that
+league's scoring, return yards and bonuses included). Average the last 3–6 weeks. This is
+the source of truth.
+
+## 1b. Production and usage: `scripts/player_stats.py`
 ESPN game logs scored with **both** leagues' rules: points per game, last-3 average,
 targets/carries per game, weekly lines and remaining schedule (playoff weeks 15–17
 starred, each opponent's points allowed and rank). Use it for every start/sit coin flip,
 pickup and trade. A player's name, draft pedigree or value-chart rank never outweighs
 what he is actually scoring.
+
+**Its points miss return yards/TDs, 2-pt conversions and End Zone Bound's 40+ yard TD
+bonus.** That badly undercounts return men in End Zone Bound (Chimere Dike: script 2.6 vs
+Yahoo 21 pts/game). Use the script's points only for free agents and players you can't
+get from Yahoo, and say they're estimates. Its usage and schedule data are fine.
 
 ## 2. Expert consensus: weekly start/sit articles
 These sites are reachable from the cloud environment; fetch the current week's pieces

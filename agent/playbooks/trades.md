@@ -11,8 +11,9 @@ deadline to clear. Past that point, stop suggesting trades and delete the
 ## The bar every idea must clear (non-negotiable)
 
 Quan's rule: **he has to get the better value, and the player he gets must be producing.**
-Value charts and name recognition are not enough. Use `python3 scripts/player_stats.py`
-(ESPN game logs scored with each league's rules) for every player in an offer.
+Value charts and name recognition are not enough. Get each player's points from Yahoo's
+weekly rosters (`get_roster` with `week=N`; see `research.md` §1a), and usage and schedule
+from `python3 scripts/player_stats.py`.
 
 A player Quan **receives** must have, in that league's scoring:
 1. **Production:** points per game at least 3 higher than the starter he replaces, and

@@ -12,8 +12,10 @@ last-3-game average, usage (targets / carries / pass attempts per game), weekly 
 and remaining opponents with how many points each defense allows (fantasy playoffs are
 weeks 15-17).
 
-Approximations: 2-pt conversions, return yards and End Zone Bound's 40+ yard TD bonus
-aren't in ESPN's game logs, so they're left out. Treat numbers as within ~1-2 points.
+Approximations: 2-pt conversions, return yards/TDs and End Zone Bound's 40+ yard TD bonus
+aren't in ESPN's game logs, so they're left out. For most players that's within ~1-2
+points, but it badly undercounts return men in End Zone Bound. For rostered players,
+Yahoo's weekly points (Flaim get_roster with week=N) are the source of truth.
 """
 import json
 import sys
