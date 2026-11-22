@@ -43,7 +43,12 @@ clearly positive net, and state that net in the idea ("+6.8 pts/week").
    rivals unless the deal is clearly better for Quan.
 4. Run `player_stats.py` on every candidate and apply the bar above. Use a trade value
    chart (FantasyPros, CBS, Yahoo) only as a cross-check on how the other manager will see it.
-5. Write 2–4 ideas per league, best first, with a fallback when two ideas use the same
+5. **Acceptance check.** Look at the trade from the other manager's side using *their*
+   league data: their weekly points by slot (`get_roster` with `week=N`), so you can see
+   where they're actually weak right now. Only suggest trades that fill a real hole for
+   them. Label each idea Likely / Maybe / Long shot with the reason. Drop ideas that would
+   make their lineup worse.
+6. Write 1–3 ideas per league, best first, with a fallback when two ideas use the same
    player of Quan's.
 
 ## Write to the dashboard

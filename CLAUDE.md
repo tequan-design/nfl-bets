@@ -33,9 +33,16 @@ league, before other Flaim calls (the connector requires this order). IDs are in
 
 ## Hard rules
 
-- **Judge players by what they're actually producing** in Quan's league scoring
-  (`scripts/player_stats.py`), not by name, draft position or a value-chart rank. Every
-  start/sit, pickup and trade cites points per game and usage.
+- **Quan's leagues are the source of truth.** Every start/sit, waiver/free-agent pickup and
+  trade decision is based on the stats from his Yahoo leagues: each player's actual weekly
+  fantasy points in that league (Flaim `get_roster` with `week=N`), plus league matchups,
+  projections and standings. Outside sources (ESPN game logs via
+  `scripts/player_stats.py`, expert articles, value charts, Vegas lines) only
+  **supplement** that. When an outside source disagrees with the league data, **always go
+  with the league data**, and say which you used.
+- **Judge players by what they're actually producing** in Quan's league scoring, not by
+  name, draft position or a value-chart rank. Every start/sit, pickup and trade cites
+  league points per game and usage.
 - Run the opportunity scan in `agent/playbooks/research.md` every preview, waivers and
   monitor run: injured starters create pickups.
 - **Never state a player's team, role or health from memory.** Verify with a current web
