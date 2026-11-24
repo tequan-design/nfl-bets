@@ -43,6 +43,10 @@ picks report (Google Drive + repo) and a short text.
    - Save every recommended leg to the ledger: write a JSON list (fields as in `nfl_agent/ledger.py`
      FIELDS; `entry` = entry name, `entry_type` = power/flex/longshot/kalshi/polymarket, `tnf` = 1/0,
      `est_hit` = your probability) and run `python3 -m nfl_agent add-picks <file>`.
+7b. **Odd schedule weeks.** If any game kicks off outside the regular check windows (Wednesday night,
+   Thanksgiving day games, Black Friday, Saturday games in December), cover it in the report with TNF-style
+   caution (short rest) and add a one-time inactives check ~75 min before each such kickoff with
+   `send_later` (message: run prompts/gameday.md for that game).
 8. **Baseline for alerts.** `python3 -m nfl_agent monitor --week W --no-lines --label wed`
    (lines were already pulled by `slate`; this stores injuries/markets/weather as the baseline).
 9. **Text the user** (`python3 -m nfl_agent text "..."`): about 400 chars max, e.g.
