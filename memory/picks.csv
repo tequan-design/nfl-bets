@@ -86,3 +86,8 @@ season,week,made_at,platform,entry,entry_type,player,team,game,stat,line,side,es
 2026,11,2026-11-21,prizepicks,Flex 5,flex,CeeDee Lamb,DAL,TEN@DAL,rec_yds,92.5,over,0.51,5,9,0,,,Standard; weather swap
 2026,11,2026-11-21,prizepicks,Flex 6,flex,Dak Prescott,DAL,TEN@DAL,pass_yds,278.5,over,0.53,2,22,0,,,Standard; weather swap
 2026,11,2026-11-21,prizepicks,Flex 6,flex,Javonte Williams,DAL,TEN@DAL,rush_yds,62.5,over,0.73,2,18,0,,,Goblin ~62; weather swap
+2026,11,2026-11-23 20:05,prizepicks,MNF Power 2,power,Ja'Marr Chase,CIN,CIN@WSH,rec_yds,69.5,over,0.77,10,2.5,0,,,Goblin ~70 (wind); user-requested MNF picks
+2026,11,2026-11-23 20:05,prizepicks,MNF Power 2,power,Jayden Daniels,WSH,CIN@WSH,rush_yds,41.5,over,0.52,10,2.5,0,,,Standard; user-requested MNF picks
+2026,11,2026-11-23 20:05,prizepicks,MNF Power 3,power,Ja'Marr Chase,CIN,CIN@WSH,rec_yds,69.5,over,0.77,5,4.5,0,,,Goblin ~70 (wind); user-requested MNF picks
+2026,11,2026-11-23 20:05,prizepicks,MNF Power 3,power,Jayden Daniels,WSH,CIN@WSH,rush_yds,41.5,over,0.52,5,4.5,0,,,Standard; user-requested MNF picks
+2026,11,2026-11-23 20:05,prizepicks,MNF Power 3,power,Chase Brown,CIN,CIN@WSH,rush_yds,44.5,over,0.5,5,4.5,0,,,Standard; user-requested MNF picks

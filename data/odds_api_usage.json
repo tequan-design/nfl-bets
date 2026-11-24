@@ -389,8 +389,23 @@
    "at": "2026-11-22T16:48:30Z",
    "what": "game_lines",
    "cost": "3"
+  },
+  {
+   "at": "2026-11-24T01:01:20Z",
+   "what": "events",
+   "cost": "0"
+  },
+  {
+   "at": "2026-11-24T01:01:20Z",
+   "what": "props 3a60ed1d20004aa4d4772b2c1a2272e7 player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "4"
+  },
+  {
+   "at": "2026-11-24T01:01:20Z",
+   "what": "props f7d3ae7a8fe2438cef7d7d7bc67e31db player_receptions,player_reception_yds,player_rush_yds,player_pass_yds",
+   "cost": "3"
   }
  ],
- "remaining": 250,
- "used": 250
+ "remaining": 243,
+ "used": 257
 }
