@@ -1,0 +1,514 @@
+[
+ {
+  "game": "GB @ LAR",
+  "kick": "Wed 11/25 8:00PM ET",
+  "tnf": false,
+  "venue": "SoFi Stadium",
+  "indoor": false,
+  "records": "GB 6-4 / LAR 6-4",
+  "home_spread": -2.5,
+  "total": 44.0,
+  "home_win_prob_books": 0.555,
+  "kalshi": {
+   "Los Angeles R": {
+    "p": 0.555,
+    "vol": 433059.76,
+    "vol24h": 250312.33
+   },
+   "Green Bay": {
+    "p": 0.445,
+    "vol": 1539652.83,
+    "vol24h": 810072.28
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Packers": 0.445,
+    "Rams": 0.555
+   },
+   "volume": 97664.62666299999
+  },
+  "weather": "67F, wind 6 mph (gusts 7), precip 0%",
+  "state": "11/25 - 8:00 PM EST"
+ },
+ {
+  "game": "CHI @ DET",
+  "kick": "Thu 11/26 1:00PM ET",
+  "tnf": true,
+  "venue": "Ford Field",
+  "indoor": true,
+  "records": "CHI 8-2 / DET 8-2",
+  "home_spread": 1.5,
+  "total": 55.5,
+  "home_win_prob_books": 0.478,
+  "kalshi": {
+   "Detroit": {
+    "p": 0.485,
+    "vol": 367376.52,
+    "vol24h": 201005.91
+   },
+   "Chicago": {
+    "p": 0.525,
+    "vol": 323703.11,
+    "vol24h": 173710.61
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Bears": 0.525,
+    "Lions": 0.475
+   },
+   "volume": 94129.48598800001
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/26 - 1:00 PM EST"
+ },
+ {
+  "game": "PHI @ DAL",
+  "kick": "Thu 11/26 4:30PM ET",
+  "tnf": true,
+  "venue": "AT&T Stadium",
+  "indoor": true,
+  "records": "PHI 3-7 / DAL 5-6",
+  "home_spread": -8.5,
+  "total": 48.0,
+  "home_win_prob_books": 0.786,
+  "kalshi": {
+   "Dallas": {
+    "p": 0.795,
+    "vol": 108458.7,
+    "vol24h": 37037.28
+   },
+   "Philadelphia": {
+    "p": 0.205,
+    "vol": 365882.46,
+    "vol24h": 176871.32
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Eagles": 0.205,
+    "Cowboys": 0.795
+   },
+   "volume": 15101.764568999997
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/26 - 4:30 PM EST"
+ },
+ {
+  "game": "KC @ BUF",
+  "kick": "Thu 11/26 8:20PM ET",
+  "tnf": true,
+  "venue": "Highmark Stadium",
+  "indoor": false,
+  "records": "KC 8-2 / BUF 9-1",
+  "home_spread": -2.5,
+  "total": 47.0,
+  "home_win_prob_books": 0.575,
+  "kalshi": {
+   "Buffalo": {
+    "p": 0.585,
+    "vol": 143042.4,
+    "vol24h": 34319.84
+   },
+   "Kansas City": {
+    "p": 0.415,
+    "vol": 203255.16,
+    "vol24h": 64131.07
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Chiefs": 0.425,
+    "Bills": 0.575
+   },
+   "volume": 13510.257803999999
+  },
+  "weather": "36F, wind 22 mph (gusts 49), precip 92% -> WIND 22 mph (gusts 49), RAIN 92%",
+  "state": "11/26 - 8:20 PM EST"
+ },
+ {
+  "game": "DEN @ PIT",
+  "kick": "Fri 11/27 3:00PM ET",
+  "tnf": false,
+  "venue": "Acrisure Stadium",
+  "indoor": false,
+  "records": "DEN 8-2 / PIT 6-4",
+  "home_spread": 3.5,
+  "total": 36.5,
+  "home_win_prob_books": 0.361,
+  "kalshi": {
+   "Pittsburgh": {
+    "p": 0.35,
+    "vol": 123528.67,
+    "vol24h": 96497.73
+   },
+   "Denver": {
+    "p": 0.645,
+    "vol": 570163.45,
+    "vol24h": 470273.53
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Broncos": 0.645,
+    "Steelers": 0.355
+   },
+   "volume": 35169.036628999995
+  },
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/27 - 3:00 PM EST"
+ },
+ {
+  "game": "NO @ CIN",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "Paycor Stadium",
+  "indoor": false,
+  "records": "NO 3-7 / CIN 7-3",
+  "home_spread": -10.0,
+  "total": 50.5,
+  "home_win_prob_books": 0.817,
+  "kalshi": {
+   "Cincinnati": {
+    "p": 0.835,
+    "vol": 13217.83,
+    "vol24h": 6205.5
+   },
+   "New Orleans": {
+    "p": 0.17,
+    "vol": 18194.02,
+    "vol24h": 11005.03
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Saints": 0.175,
+    "Bengals": 0.825
+   },
+   "volume": 5572.867744000001
+  },
+  "weather": "51F, wind 12 mph (gusts 38), precip 60% -> WIND 12 mph (gusts 38), RAIN 60%",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "NYG @ IND",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "Lucas Oil Stadium",
+  "indoor": true,
+  "records": "NYG 6-3-1 / IND 3-8",
+  "home_spread": 6.5,
+  "total": 41.5,
+  "home_win_prob_books": 0.273,
+  "kalshi": {
+   "Indianapolis": {
+    "p": 0.255,
+    "vol": 16200.55,
+    "vol24h": 2799.78
+   },
+   "New York G": {
+    "p": 0.745,
+    "vol": 34818.81,
+    "vol24h": 12730.85
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Giants": 0.745,
+    "Colts": 0.255
+   },
+   "volume": 5677.479738000001
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "NYJ @ MIA",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "Hard Rock Stadium",
+  "indoor": false,
+  "records": "NYJ 3-8 / MIA 1-9",
+  "home_spread": 3.5,
+  "total": 40.5,
+  "home_win_prob_books": 0.359,
+  "kalshi": {
+   "Miami": {
+    "p": 0.345,
+    "vol": 8243.07,
+    "vol24h": 3174.63
+   },
+   "New York J": {
+    "p": 0.665,
+    "vol": 13485.3,
+    "vol24h": 3156.14
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Jets": 0.655,
+    "Dolphins": 0.345
+   },
+   "volume": 1281.49845
+  },
+  "weather": "78F, wind 9 mph (gusts 10), precip 17%",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "ATL @ MIN",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "U.S. Bank Stadium",
+  "indoor": true,
+  "records": "ATL 3-7 / MIN 7-3",
+  "home_spread": -7.0,
+  "total": 41.5,
+  "home_win_prob_books": 0.734,
+  "kalshi": {
+   "Minnesota": {
+    "p": 0.755,
+    "vol": 25411.02,
+    "vol24h": 7065.51
+   },
+   "Atlanta": {
+    "p": 0.255,
+    "vol": 25535.05,
+    "vol24h": 6467.0
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Falcons": 0.255,
+    "Vikings": 0.745
+   },
+   "volume": 1095.629684
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "TEN @ JAX",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "EverBank Stadium",
+  "indoor": false,
+  "records": "TEN 1-9 / JAX 7-3",
+  "home_spread": -14.5,
+  "total": 48.5,
+  "home_win_prob_books": 0.881,
+  "kalshi": {
+   "Jacksonville": {
+    "p": 0.895,
+    "vol": 69533.7,
+    "vol24h": 23901.19
+   },
+   "Tennessee": {
+    "p": 0.105,
+    "vol": 68596.68,
+    "vol24h": 27052.32
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Titans": 0.105,
+    "Jaguars": 0.895
+   },
+   "volume": 787.516006
+  },
+  "weather": "61F, wind 6 mph (gusts 15), precip 3%",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "BAL @ HOU",
+  "kick": "Sun 11/29 1:00PM ET",
+  "tnf": false,
+  "venue": "Reliant Stadium",
+  "indoor": true,
+  "records": "BAL 4-7 / HOU 4-6",
+  "home_spread": -7.0,
+  "total": 47.0,
+  "home_win_prob_books": 0.73,
+  "kalshi": {
+   "Houston": {
+    "p": 0.745,
+    "vol": 7661.3,
+    "vol24h": 2523.6
+   },
+   "Baltimore": {
+    "p": 0.255,
+    "vol": 27239.66,
+    "vol24h": 13025.84
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Ravens": 0.255,
+    "Texans": 0.745
+   },
+   "volume": 4554.900557999999
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/29 - 1:00 PM EST"
+ },
+ {
+  "game": "NE @ LAC",
+  "kick": "Sun 11/29 4:05PM ET",
+  "tnf": false,
+  "venue": "SoFi Stadium",
+  "indoor": false,
+  "records": "NE 5-5 / LAC 1-9",
+  "home_spread": -1.0,
+  "total": 35.5,
+  "home_win_prob_books": 0.508,
+  "kalshi": {
+   "Los Angeles C": {
+    "p": 0.505,
+    "vol": 15740.04,
+    "vol24h": 2218.16
+   },
+   "New England": {
+    "p": 0.495,
+    "vol": 129085.06,
+    "vol24h": 14761.33
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Patriots": 0.505,
+    "Chargers": 0.495
+   },
+   "volume": 1899.67024
+  },
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/29 - 4:05 PM EST"
+ },
+ {
+  "game": "WSH @ ARI",
+  "kick": "Sun 11/29 4:25PM ET",
+  "tnf": false,
+  "venue": "State Farm Stadium",
+  "indoor": true,
+  "records": "WSH 4-5-1 / ARI 3-8",
+  "home_spread": 7.0,
+  "total": 41.5,
+  "home_win_prob_books": 0.247,
+  "kalshi": {
+   "Arizona": {
+    "p": 0.245,
+    "vol": 21909.14,
+    "vol24h": 15649.2
+   },
+   "Washington": {
+    "p": 0.765,
+    "vol": 19751.24,
+    "vol24h": 2093.57
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Commanders": 0.755,
+    "Cardinals": 0.245
+   },
+   "volume": 1916.0431339999998
+  },
+  "weather": "Indoors/roof - weather not a factor",
+  "state": "11/29 - 4:25 PM EST"
+ },
+ {
+  "game": "SEA @ SF",
+  "kick": "Sun 11/29 4:25PM ET",
+  "tnf": false,
+  "venue": "Levi's Stadium",
+  "indoor": false,
+  "records": "SEA 6-4 / SF 9-1",
+  "home_spread": -3.0,
+  "total": 45.0,
+  "home_win_prob_books": 0.609,
+  "kalshi": {
+   "San Francisco": {
+    "p": 0.615,
+    "vol": 160358.4,
+    "vol24h": 35759.4
+   },
+   "Seattle": {
+    "p": 0.395,
+    "vol": 55865.79,
+    "vol24h": 15014.5
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Seahawks": 0.385,
+    "49ers": 0.615
+   },
+   "volume": 6750.096542000001
+  },
+  "weather": "Forecast unavailable (HTTP 429 for https://api.open-meteo.com/v1/forecast?latitude); check a weather app or news",
+  "state": "11/29 - 4:25 PM EST"
+ },
+ {
+  "game": "LV @ CLE",
+  "kick": "Sun 11/29 8:20PM ET",
+  "tnf": false,
+  "venue": "Huntington Bank Field",
+  "indoor": false,
+  "records": "LV 4-7 / CLE 6-4",
+  "home_spread": -4.5,
+  "total": 40.5,
+  "home_win_prob_books": 0.674,
+  "kalshi": {
+   "Cleveland": {
+    "p": 0.685,
+    "vol": 13622.89,
+    "vol24h": 2161.1
+   },
+   "Las Vegas": {
+    "p": 0.315,
+    "vol": 41408.05,
+    "vol24h": 17795.48
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Raiders": 0.325,
+    "Browns": 0.675
+   },
+   "volume": 945.4992599999999
+  },
+  "weather": "49F, wind 17 mph (gusts 38), precip 67% -> WIND 17 mph (gusts 38), RAIN 67%",
+  "state": "11/29 - 8:20 PM EST"
+ },
+ {
+  "game": "CAR @ TB",
+  "kick": "Mon 11/30 8:15PM ET",
+  "tnf": false,
+  "venue": "Raymond James Stadium",
+  "indoor": false,
+  "records": "CAR 5-5 / TB 3-7",
+  "home_spread": -3.0,
+  "total": 43.5,
+  "home_win_prob_books": 0.584,
+  "kalshi": {
+   "Tampa Bay": {
+    "p": 0.585,
+    "vol": 7220.35,
+    "vol24h": 899.08
+   },
+   "Carolina": {
+    "p": 0.415,
+    "vol": 22198.71,
+    "vol24h": 6671.42
+   }
+  },
+  "polymarket": {
+   "prices": {
+    "Panthers": 0.405,
+    "Buccaneers": 0.595
+   },
+   "volume": 636.380633
+  },
+  "weather": "70F, wind 4 mph (gusts 4), precip 12%",
+  "state": "11/30 - 8:15 PM EST"
+ }
+]
