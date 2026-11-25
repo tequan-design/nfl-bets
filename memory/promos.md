@@ -25,6 +25,9 @@
 - PrizePicks 30-40% Profit Boosts (opt-in): attach to the Power 2/3 entry.
 - Betr Sunday 100% Profit Boost: attach to the strongest Sunday 2-pick.
 
+## Scan log
+- Wed 11/25 3:23pm: 2 new emails, nothing usable (Polymarket Thanksgiving preview newsletter; Betr free spins on Picks/SSBK = casino-style, skipped). Active list unchanged.
+
 ## Expired
 - PrizePicks Taco Tuesday flash sale / Discount Packs (11/24).
 - Betr "Play $15 today, free entry tomorrow" (11/13). Underdog Wild Card boost/discount/no-sweat (11/10).
