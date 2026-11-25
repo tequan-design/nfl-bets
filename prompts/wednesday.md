@@ -27,6 +27,8 @@ picks report (Google Drive + repo) and a short text.
    - 4b. `python3 -m nfl_agent ladders --min 0.62 --max 0.92 --top 80` for Kalshi rungs.
    - For each candidate leg run `form` with the DFS line. Drop legs whose recent floor is far below the
      line unless the market price is strong.
+5a. **Promos.** Read `memory/promos.md`; attach each active boost/protected play/discount to the entry it fits
+   best (boost -> Power entry, protected play/insurance -> Flex), and list them in the report.
 5. **Build entries** per "Entry building" in `CLAUDE.md` (core, flex, longshot, prediction-market plays,
    TNF section with halved stakes). Respect bankroll rules. Show combined hit chance and payout per entry.
 6. **Fantasy side notes.** Flaim: `get_user_session`, then for each Yahoo league get the user's roster.

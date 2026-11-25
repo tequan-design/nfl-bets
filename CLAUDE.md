@@ -45,6 +45,8 @@ Run everything from the repo root with `python3 -m nfl_agent <command>` (stdlib 
   Use only for the fantasy side notes below.
 - **Google Drive**: reports go in the **Sports bets** folder (id `1kB--GSqigM1ag_1WEkh1cTyC9tHBfbbi`). The
   user's chat history with past strategy is "Sports Bets Chat Record" in that folder.
+- **Gmail**: promo emails from PrizePicks/Underdog/Betr/Kalshi/Polymarket. The promo scan (`prompts/promos.md`)
+  keeps `memory/promos.md` current; the Wednesday report attaches active promos to specific entries.
 - **WebSearch / WebFetch**: news, beat reporters, practice reports, trades, suspensions, coaching changes,
   and current PrizePicks/Underdog promos. Never state a player's team, role or health from memory.
 
