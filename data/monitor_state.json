@@ -127,6 +127,12 @@
   "injury|Drew Lock|Questionable",
   "injury|Jalen Milroe|Questionable",
   "kalshi_swing|Chicago vs Detroit|0.735",
-  "kalshi_swing|Chicago vs Detroit|0.265"
+  "kalshi_swing|Chicago vs Detroit|0.265",
+  "kalshi_swing|Philadelphia vs Dallas|0.915",
+  "kalshi_swing|Philadelphia vs Dallas|0.085",
+  "kalshi_swing|Jacksonville vs Chicago|0.395",
+  "kalshi_swing|Jacksonville vs Chicago|0.595",
+  "injury|Dalton Schultz|Questionable",
+  "injury|Parker Washington|Questionable"
  ]
 }
