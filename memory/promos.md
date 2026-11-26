@@ -16,6 +16,8 @@
 ## Active (as of Wed 11/25)
 | Platform | Offer | How to use | Expires | Seen |
 |---|---|---|---|---|
+| Betr | Thanksgiving discounted lines: Jahmyr Gibbs, CeeDee Lamb, James Cook | Use the discounted line for Lamb (TG Power 2) / Cook (KC@BUF rushing) | Thu 11/26 games | 11/26 |
+| Betr | Ghost Token (test promo) on Promotion page | Open Promotion page, claim before it disappears | unknown | 11/26 |
 | Polymarket | Tradesgiving: $5 bonus per day for a single trade of $25+ (max $35) | One $25 trade/day; the Kalshi-style favorites parlay or a game line works | Mon 11/30 11:59pm | 11/24 |
 | Underdog | 25% deposit match, up to $50 in bonus funds on next deposit | Only when reloading anyway: $50 reload = $12.50 bonus, $100 = $25 | "won't last long" (no date) | 11/24 |
 | PrizePicks | Feast Week: new promo daily, Discount Packs in Rewards tab | Check Rewards tab each day this week before entering | Week of 11/24 | 11/24 |
@@ -26,6 +28,7 @@
 - Betr Sunday 100% Profit Boost: attach to the strongest Sunday 2-pick.
 
 ## Scan log
+- Thu 11/26 3:23pm: Betr Thanksgiving discounts (Gibbs/Lamb/Cook) + Ghost Token -> TEXTED. Skipped: Betr Ironman (needs $25 on Rips), Betr Rips $20 bonus (card packs), Polymarket daily bonus email (already listed).
 - Wed 11/25 3:23pm: 2 new emails, nothing usable (Polymarket Thanksgiving preview newsletter; Betr free spins on Picks/SSBK = casino-style, skipped). Active list unchanged.
 
 ## Expired
