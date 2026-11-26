@@ -125,6 +125,8 @@
   "weather|DEN @ PIT|None",
   "weather|NO @ CIN|None",
   "injury|Drew Lock|Questionable",
-  "injury|Jalen Milroe|Questionable"
+  "injury|Jalen Milroe|Questionable",
+  "kalshi_swing|Chicago vs Detroit|0.735",
+  "kalshi_swing|Chicago vs Detroit|0.265"
  ]
 }
