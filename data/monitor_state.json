@@ -138,6 +138,19 @@
   "kalshi_swing|Jacksonville vs Chicago|0.445",
   "kalshi_swing|Jacksonville vs Chicago|0.635",
   "injury|Parker Washington|Out",
-  "injury|A.J. Brown|Out"
+  "injury|A.J. Brown|Out",
+  "spread_move|Denver Broncos @ Pittsburgh Steelers|-21.5",
+  "total_move|Denver Broncos @ Pittsburgh Steelers|32.5",
+  "spread_move|New England Patriots @ Los Angeles Chargers|3.0",
+  "spread_move|Seattle Seahawks @ San Francisco 49ers|1.0",
+  "win_prob_move|Seattle Seahawks @ San Francisco 49ers|0.489",
+  "kalshi_swing|Denver vs Pittsburgh|0.995",
+  "kalshi_swing|Denver vs Pittsburgh|0.01",
+  "kalshi_swing|Seattle vs San Francisco|0.495",
+  "kalshi_swing|Seattle vs San Francisco|0.515",
+  "injury|Tee Higgins|Questionable",
+  "injury|Bhayshul Tuten|Out",
+  "injury|Justin Herbert|Out",
+  "injury|Brock Purdy|Out"
  ]
 }

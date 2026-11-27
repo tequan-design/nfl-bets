@@ -499,8 +499,13 @@
    "at": "2026-11-26T16:48:05Z",
    "what": "game_lines",
    "cost": "3"
+  },
+  {
+   "at": "2026-11-27T22:48:36Z",
+   "what": "game_lines",
+   "cost": "3"
   }
  ],
- "remaining": 167,
- "used": 333
+ "remaining": 162,
+ "used": 338
 }
