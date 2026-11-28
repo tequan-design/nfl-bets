@@ -28,6 +28,7 @@
 - Betr Sunday 100% Profit Boost: attach to the strongest Sunday 2-pick.
 
 ## Scan log
+- Sat 11/28 10:17am: no new promo emails since Fri scan (no Saturday games). Active list unchanged.
 - Fri 11/27 3:23pm: no Flex Friday Protected Play email yet today. New: PrizePicks Black Friday Double Packs, Underdog Rips, Betr Social Casino 25% purchase match (all packs/casino, skipped). Active list unchanged.
 - Thu 11/26 3:23pm: Betr Thanksgiving discounts (Gibbs/Lamb/Cook) + Ghost Token -> TEXTED. Skipped: Betr Ironman (needs $25 on Rips), Betr Rips $20 bonus (card packs), Polymarket daily bonus email (already listed).
 - Wed 11/25 3:23pm: 2 new emails, nothing usable (Polymarket Thanksgiving preview newsletter; Betr free spins on Picks/SSBK = casino-style, skipped). Active list unchanged.
